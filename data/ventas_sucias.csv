@@ -1,0 +1,209 @@
+venta_id,producto,precioUnitario,talla,cantidad,vendedor,fecha,total
+0,Vestido maxi volante,199000,XXXL,2,JESSICA MORA,2026-01-15,398000
+0,Vestido corto evasé,120000,XS,3,ROGER MORA,2026-01-03,360000
+1,Mono palabra de honor estampado,250000,XL,2,JESSICA MORA,2026-02-07,500000
+1,Mono largo asimétrico drapeado,289000,S,2,LAURA MORA,2026-01-13,578000
+1,Vestido corto evasé,120000,XL,4,DAVID MIRA,2026-01-25,480000
+2,Mono raya diplomática combinado,350000,XL,3,JUAN JOSE RIOS,2026-01-29,1050000
+2,Vestido maxi volante,199000,XXXL,4,ALEXANDER RAMIREZ,2026-02-01,796000
+3,Vestido asimétrico fruncido,170000,L,5,LAURA MORA,2026-02-02,850000
+4,Mono largo asimétrico drapeado,289000,S,2,JOHANA FERRARO,2026-01-22,578000
+4,Mono palabra de honor estampado,250000,S,1,ROGER MORA,2026-01-08,250000
+4,Mono largo cuello drapeado cinturón,210000,S,2,DAVID MIRA,2026-01-07,420000
+5,Mono largo cuello drapeado cinturón,210000,L,2,JUAN JOSE RIOS,2026-02-15,420000
+6,Vestido corto evasé,120000,S,3,JOHANA FERRARO,2026-02-14,360000
+6,Mono largo combinado,150000,M,5,ALEXANDER RAMIREZ,2026-02-19,750000
+6,Vestido asimétrico fruncido,170000,XXXL,2,JUAN JOSE RIOS,2026-01-24,340000
+7,Vestido corto evasé,120000,M,5,ROGER MORA,2026-01-22,600000
+7,Mono raya diplomática combinado,350000,XXL,3,ROGER MORA,2026-01-24,1050000
+7,Mono largo cuello drapeado cinturón,210000,S,3,JUAN JOSE RIOS,2026-01-24,630000
+8,Vestido punto cuello perkins,110000,XXL,4,JOHANA FERRARO,2026-01-10,440000
+9,Mono raya diplomática combinado,350000,M,5,JUAN JOSE RIOS,2026-02-27,1750000
+9,Vestido asimétrico fruncido,170000,XXXL,4,JOHANA FERRARO,2026-02-14,680000
+9,Mono palabra de honor estampado,250000,XXL,2,LAURA MORA,2026-01-03,500000
+10,Mono raya diplomática combinado,350000,S,2,JESSICA MORA,2026-01-23,700000
+10,Mono largo cuello drapeado cinturón,210000,XXXL,2,LAURA MORA,2026-01-22,420000
+11,Mono largo combinado,150000,XXXL,5,LAURA MORA,2026-02-06,750000
+11,Vestido cuello barco fruncidos,185000,XL,4,JOHANA FERRARO,2026-01-02,740000
+12,Vestido cuello barco fruncidos,185000,S,4,ALEXANDER RAMIREZ,2026-02-22,740000
+12,Vestido corto evasé,120000,M,4,LAURA MORA,2026-01-20,480000
+13,Mono raya diplomática combinado,350000,XS,2,ROGER MORA,2026-01-06,700000
+14,Vestido asimétrico fruncido,170000,L,4,ROGER MORA,2026-02-15,680000
+15,Mono largo cuello drapeado cinturón,210000,XXXL,1,DAVID MIRA,2026-02-17,210000
+15,Vestido punto cuello perkins,110000,XXXL,2,JUAN JOSE RIOS,2026-01-29,220000
+16,Mono largo asimétrico drapeado,289000,XL,2,JOHANA FERRARO,2026-01-21,578000
+16,Vestido punto cuello perkins,110000,XS,3,JUAN JOSE RIOS,2026-01-05,330000
+16,Mono largo combinado,150000,XS,1,JOHANA FERRARO,2026-02-03,150000
+17,Vestido cuello barco fruncidos,185000,XL,4,LAURA MORA,2026-01-03,740000
+17,Mono raya diplomática combinado,350000,M,5,JOHANA FERRARO,2026-02-08,1750000
+17,Vestido maxi volante,199000,S,3,ROGER MORA,2026-01-20,597000
+18,Mono largo combinado,150000,XXXL,5,JESSICA MORA,2026-02-05,750000
+18,Mono largo asimétrico drapeado,289000,L,1,ROGER MORA,2026-03-02,289000
+19,Mono largo cuello drapeado cinturón,210000,XXXL,5,JESSICA MORA,2026-01-20,1050000
+19,Mono largo asimétrico drapeado,289000,M,4,DAVID MIRA,2026-02-03,1156000
+20,Mono largo asimétrico drapeado,289000,XL,5,ALEXANDER RAMIREZ,2026-02-16,1445000
+21,Vestido cuello barco fruncidos,185000,XXL,3,JOHANA FERRARO,2026-02-28,555000
+21,Mono largo cuello drapeado cinturón,210000,XXXL,2,LAURA MORA,2026-01-18,420000
+22,Vestido corto evasé,120000,M,4,JOHANA FERRARO,2026-02-07,480000
+23,Vestido punto cuello perkins,110000,S,5,JESSICA MORA,2026-01-06,550000
+23,Mono palabra de honor estampado,250000,XXXL,1,JUAN JOSE RIOS,2026-02-09,250000
+23,Mono largo asimétrico drapeado,289000,XXL,5,ROGER MORA,2026-01-30,1445000
+24,Vestido maxi volante,199000,M,3,ROGER MORA,2026-02-03,597000
+24,Mono largo combinado,150000,M,4,JUAN JOSE RIOS,2026-01-09,600000
+24,Mono largo asimétrico drapeado,289000,XXL,4,JOHANA FERRARO,2026-01-27,1156000
+25,Vestido cuello barco fruncidos,185000,L,4,JUAN JOSE RIOS,2026-02-01,740000
+25,Mono palabra de honor estampado,250000,L,5,ALEXANDER RAMIREZ,2026-01-08,1250000
+25,Vestido maxi volante,199000,M,5,LAURA MORA,2026-01-22,995000
+26,Vestido corto evasé,120000,L,2,DAVID MIRA,2026-02-08,240000
+26,Mono largo asimétrico drapeado,289000,XL,1,LAURA MORA,2026-02-27,289000
+26,Vestido punto cuello perkins,110000,L,3,LAURA MORA,2026-01-09,330000
+27,Vestido corto evasé,120000,XXXL,5,JUAN JOSE RIOS,2026-01-31,600000
+28,Vestido maxi volante,199000,S,4,DAVID MIRA,2026-02-01,796000
+28,Mono palabra de honor estampado,250000,M,1,JESSICA MORA,2026-02-01,250000
+29,Mono largo cuello drapeado cinturón,210000,XXL,3,ALEXANDER RAMIREZ,2026-02-17,630000
+30,Mono largo cuello drapeado cinturón,210000,XXL,3,JESSICA MORA,2026-01-06,630000
+30,Mono largo combinado,150000,XXL,5,ALEXANDER RAMIREZ,2026-02-20,750000
+30,Mono largo asimétrico drapeado,289000,XXL,3,ROGER MORA,2026-01-24,867000
+31,Vestido corto evasé,120000,L,2,JUAN JOSE RIOS,2026-01-05,240000
+31,Vestido maxi volante,199000,XS,1,ROGER MORA,2026-01-27,199000
+32,Mono largo combinado,150000,M,4,ALEXANDER RAMIREZ,2026-02-04,600000
+32,Vestido corto evasé,120000,L,4,DAVID MIRA,2026-02-06,480000
+32,Mono largo asimétrico drapeado,289000,XXL,5,DAVID MIRA,2026-01-31,1445000
+33,Mono palabra de honor estampado,250000,XS,2,JESSICA MORA,2026-02-25,500000
+34,Vestido punto cuello perkins,110000,S,5,JUAN JOSE RIOS,2026-01-31,550000
+35,Mono palabra de honor estampado,250000,M,4,DAVID MIRA,2026-01-16,1000000
+36,Mono raya diplomática combinado,350000,XXXL,1,ROGER MORA,2026-02-08,350000
+36,Vestido maxi volante,199000,XXL,4,DAVID MIRA,2026-01-29,796000
+37,Vestido corto evasé,120000,S,5,DAVID MIRA,2026-01-11,600000
+37,Vestido punto cuello perkins,110000,S,2,ALEXANDER RAMIREZ,2026-01-08,220000
+38,Vestido cuello barco fruncidos,185000,XXL,4,ALEXANDER RAMIREZ,2026-01-03,740000
+39,Mono palabra de honor estampado,250000,XXL,5,LAURA MORA,2026-01-30,1250000
+39,Vestido cuello barco fruncidos,185000,L,3,JOHANA FERRARO,2026-02-27,555000
+39,Mono largo combinado,150000,M,4,JOHANA FERRARO,2026-01-16,600000
+40,Mono raya diplomática combinado,350000,XXL,5,DAVID MIRA,2026-02-25,1750000
+41,Mono largo cuello drapeado cinturón,210000,XXXL,3,JUAN JOSE RIOS,2026-02-06,630000
+41,Vestido cuello barco fruncidos,185000,M,5,JUAN JOSE RIOS,2026-02-14,925000
+41,Vestido asimétrico fruncido,170000,XXL,2,ROGER MORA,2026-01-27,340000
+42,Vestido maxi volante,199000,XXXL,5,DAVID MIRA,2026-01-26,995000
+42,Mono largo combinado,150000,XS,5,LAURA MORA,2026-02-01,750000
+42,Mono largo cuello drapeado cinturón,210000,XL,3,DAVID MIRA,2026-02-14,630000
+43,Mono palabra de honor estampado,250000,S,1,JUAN JOSE RIOS,2026-01-06,250000
+43,Vestido punto cuello perkins,110000,M,5,JESSICA MORA,2026-02-15,550000
+43,Mono largo combinado,150000,XXXL,4,LAURA MORA,2026-01-10,600000
+44,Vestido corto evasé,120000,M,5,JESSICA MORA,2026-03-01,600000
+45,Mono palabra de honor estampado,250000,XL,5,LAURA MORA,2026-02-21,1250000
+45,Vestido punto cuello perkins,110000,XL,2,LAURA MORA,2026-02-27,220000
+46,Vestido corto evasé,120000,L,3,JESSICA MORA,2026-01-10,360000
+46,Vestido cuello barco fruncidos,185000,L,1,JOHANA FERRARO,2026-02-02,185000
+47,Vestido maxi volante,199000,XL,1,JOHANA FERRARO,2026-02-19,199000
+48,Vestido maxi volante,199000,XL,4,ROGER MORA,2026-01-03,796000
+48,Vestido cuello barco fruncidos,185000,XXL,4,ROGER MORA,2026-02-01,740000
+48,Mono largo cuello drapeado cinturón,210000,XXL,1,ROGER MORA,2026-03-02,210000
+49,Vestido maxi volante,199000,XXXL,2,ALEXANDER RAMIREZ,2026-01-25,398000
+49,Mono largo cuello drapeado cinturón,210000,S,4,JUAN JOSE RIOS,2026-01-21,840000
+50,Vestido asimétrico fruncido,170000,XXL,5,LAURA MORA,2026-01-13,850000
+50,Mono largo combinado,150000,XXL,2,DAVID MIRA,2026-02-18,300000
+50,Mono largo cuello drapeado cinturón,210000,S,4,LAURA MORA,2026-02-25,840000
+51,Vestido corto evasé,120000,XXXL,5,DAVID MIRA,2026-02-15,600000
+51,Vestido asimétrico fruncido,170000,XXL,1,JESSICA MORA,2026-01-15,170000
+52,Mono largo asimétrico drapeado,289000,M,5,JESSICA MORA,2026-01-23,1445000
+52,Mono largo combinado,150000,M,1,JUAN JOSE RIOS,2026-01-20,150000
+53,Vestido cuello barco fruncidos,185000,XXL,1,JOHANA FERRARO,2026-02-26,185000
+53,Vestido asimétrico fruncido,170000,XXXL,1,ALEXANDER RAMIREZ,2026-01-19,170000
+53,Mono raya diplomática combinado,350000,XL,5,DAVID MIRA,2026-02-18,1750000
+54,Mono largo combinado,150000,XS,2,JESSICA MORA,2026-03-02,300000
+55,Vestido corto evasé,120000,XS,5,JESSICA MORA,2026-02-21,600000
+55,Mono largo asimétrico drapeado,289000,L,5,ROGER MORA,2026-01-14,1445000
+55,Vestido cuello barco fruncidos,185000,S,3,ROGER MORA,2026-03-01,555000
+56,Mono largo cuello drapeado cinturón,210000,XL,1,JUAN JOSE RIOS,2026-03-01,210000
+56,Vestido corto evasé,120000,XXXL,3,ALEXANDER RAMIREZ,2026-02-02,360000
+56,Vestido punto cuello perkins,110000,XXXL,1,LAURA MORA,2026-01-29,110000
+57,Vestido corto evasé,120000,XL,1,JESSICA MORA,2026-02-08,120000
+58,Vestido cuello barco fruncidos,185000,XL,5,JESSICA MORA,2026-01-14,925000
+59,Mono largo cuello drapeado cinturón,210000,S,2,ALEXANDER RAMIREZ,2026-02-07,420000
+60,Vestido asimétrico fruncido,170000,XXL,3,ROGER MORA,2026-02-08,510000
+60,Mono raya diplomática combinado,350000,XXXL,3,JUAN JOSE RIOS,2026-01-11,1050000
+60,Vestido cuello barco fruncidos,185000,S,1,DAVID MIRA,2026-01-24,185000
+61,Mono palabra de honor estampado,250000,XXL,4,JUAN JOSE RIOS,2026-01-25,1000000
+61,Mono raya diplomática combinado,350000,XXXL,3,JESSICA MORA,2026-02-02,1050000
+61,Vestido maxi volante,199000,XL,2,DAVID MIRA,2026-01-25,398000
+62,Mono largo combinado,150000,L,2,JUAN JOSE RIOS,2026-03-01,300000
+62,Mono raya diplomática combinado,350000,XXXL,3,LAURA MORA,2026-02-22,1050000
+63,Vestido maxi volante,199000,L,2,DAVID MIRA,2026-02-04,398000
+63,Mono palabra de honor estampado,250000,XXL,3,DAVID MIRA,2026-01-06,750000
+63,Vestido punto cuello perkins,110000,L,4,DAVID MIRA,2026-02-19,440000
+64,Vestido maxi volante,199000,XS,3,ROGER MORA,2026-01-22,597000
+64,Mono largo cuello drapeado cinturón,210000,XXL,4,JOHANA FERRARO,2026-02-05,840000
+65,Vestido cuello barco fruncidos,185000,XXL,5,LAURA MORA,2026-02-05,925000
+66,Vestido corto evasé,120000,M,1,LAURA MORA,2026-03-03,120000
+66,Mono largo combinado,150000,XXL,5,ROGER MORA,2026-01-06,750000
+66,Vestido asimétrico fruncido,170000,XS,3,JESSICA MORA,2026-01-19,510000
+67,Vestido asimétrico fruncido,170000,XXXL,1,DAVID MIRA,2026-02-09,170000
+67,Vestido cuello barco fruncidos,185000,XXXL,5,JESSICA MORA,2026-01-14,925000
+68,Vestido asimétrico fruncido,170000,S,2,JESSICA MORA,2026-01-26,340000
+69,Mono largo cuello drapeado cinturón,210000,M,4,ROGER MORA,2026-02-03,840000
+70,Vestido cuello barco fruncidos,185000,XS,2,JUAN JOSE RIOS,2026-02-12,370000
+71,Vestido corto evasé,120000,XL,1,JOHANA FERRARO,2026-01-07,120000
+72,Vestido corto evasé,120000,XS,3,JOHANA FERRARO,2026-02-21,360000
+72,Mono largo cuello drapeado cinturón,210000,S,4,ALEXANDER RAMIREZ,2026-02-19,840000
+72,Vestido maxi volante,199000,S,3,JOHANA FERRARO,2026-01-28,597000
+73,Mono largo combinado,150000,M,1,ALEXANDER RAMIREZ,2026-02-01,150000
+74,Vestido cuello barco fruncidos,185000,S,4,JESSICA MORA,2026-01-11,740000
+74,Vestido punto cuello perkins,110000,XL,1,JOHANA FERRARO,2026-01-30,110000
+74,Mono raya diplomática combinado,350000,S,1,JESSICA MORA,2026-02-10,350000
+75,Mono raya diplomática combinado,350000,S,2,ALEXANDER RAMIREZ,2026-01-20,700000
+75,Vestido punto cuello perkins,110000,M,5,JOHANA FERRARO,2026-01-25,550000
+75,Mono largo cuello drapeado cinturón,210000,M,4,JESSICA MORA,2026-01-11,840000
+76,Mono largo cuello drapeado cinturón,210000,XS,3,JOHANA FERRARO,2026-02-18,630000
+77,Mono largo cuello drapeado cinturón,210000,XXL,2,ALEXANDER RAMIREZ,2026-02-09,420000
+78,Vestido maxi volante,199000,XL,5,ROGER MORA,2026-02-20,995000
+79,Vestido cuello barco fruncidos,185000,XXL,1,ALEXANDER RAMIREZ,2026-02-09,185000
+80,Mono palabra de honor estampado,250000,M,1,DAVID MIRA,2026-01-13,250000
+81,Mono largo cuello drapeado cinturón,210000,XXL,4,LAURA MORA,2026-03-03,840000
+81,Mono palabra de honor estampado,250000,L,1,ROGER MORA,2026-01-18,250000
+81,Vestido corto evasé,120000,XXL,1,JUAN JOSE RIOS,2026-01-24,120000
+82,Vestido punto cuello perkins,110000,XL,3,ROGER MORA,2026-01-24,330000
+82,Mono largo cuello drapeado cinturón,210000,M,1,LAURA MORA,2026-02-17,210000
+83,Mono largo combinado,150000,S,1,ALEXANDER RAMIREZ,2026-01-16,150000
+83,Vestido punto cuello perkins,110000,M,2,JOHANA FERRARO,2026-02-14,220000
+83,Mono largo asimétrico drapeado,289000,XXL,3,JESSICA MORA,2026-02-08,867000
+84,Vestido maxi volante,199000,XXL,1,LAURA MORA,2026-01-03,199000
+84,Vestido cuello barco fruncidos,185000,S,2,JESSICA MORA,2026-01-21,370000
+84,Mono raya diplomática combinado,350000,L,1,JOHANA FERRARO,2026-02-09,350000
+85,Mono largo cuello drapeado cinturón,210000,XS,1,ROGER MORA,2026-01-22,210000
+86,Mono raya diplomática combinado,350000,XL,1,ALEXANDER RAMIREZ,2026-02-03,350000
+86,Mono largo combinado,150000,M,1,ROGER MORA,2026-01-31,150000
+86,Vestido maxi volante,199000,XXXL,5,ALEXANDER RAMIREZ,2026-01-14,995000
+87,Mono largo cuello drapeado cinturón,210000,XL,5,LAURA MORA,2026-02-03,1050000
+87,Vestido punto cuello perkins,110000,M,3,ROGER MORA,2026-01-18,330000
+87,Vestido asimétrico fruncido,170000,XS,5,JOHANA FERRARO,2026-01-09,850000
+88,Vestido cuello barco fruncidos,185000,XL,1,LAURA MORA,2026-01-21,185000
+88,Vestido corto evasé,120000,XL,5,ALEXANDER RAMIREZ,2026-01-07,600000
+89,Vestido punto cuello perkins,110000,M,2,DAVID MIRA,2026-01-25,220000
+89,Mono largo combinado,150000,S,2,ALEXANDER RAMIREZ,2026-02-26,300000
+89,Mono palabra de honor estampado,250000,M,1,DAVID MIRA,2026-01-30,250000
+90,Mono largo combinado,150000,L,2,JOHANA FERRARO,2026-02-10,300000
+91,Mono raya diplomática combinado,350000,XL,4,JUAN JOSE RIOS,2026-02-02,1400000
+91,Mono largo combinado,150000,S,3,ALEXANDER RAMIREZ,2026-01-26,450000
+91,Mono palabra de honor estampado,250000,S,5,JUAN JOSE RIOS,2026-02-26,1250000
+92,Vestido cuello barco fruncidos,185000,L,1,ALEXANDER RAMIREZ,2026-02-16,185000
+93,Vestido corto evasé,120000,XXXL,5,JUAN JOSE RIOS,2026-02-16,600000
+93,Vestido cuello barco fruncidos,185000,XXXL,1,LAURA MORA,2026-01-26,185000
+93,Vestido asimétrico fruncido,170000,XXXL,1,ALEXANDER RAMIREZ,2026-01-07,170000
+94,Vestido cuello barco fruncidos,185000,XXXL,1,JUAN JOSE RIOS,2026-02-11,185000
+94,Vestido corto evasé,120000,XL,2,DAVID MIRA,2026-01-25,240000
+95,Vestido asimétrico fruncido,170000,XL,2,LAURA MORA,2026-01-07,340000
+95,Vestido corto evasé,120000,XL,4,LAURA MORA,2026-02-20,480000
+95,Mono largo cuello drapeado cinturón,210000,XS,2,JOHANA FERRARO,2026-02-16,420000
+96,Vestido asimétrico fruncido,170000,L,3,DAVID MIRA,2026-01-26,510000
+97,Vestido punto cuello perkins,110000,XS,3,JUAN JOSE RIOS,2026-02-05,330000
+97,Mono palabra de honor estampado,250000,S,2,JOHANA FERRARO,2026-01-13,500000
+97,Mono largo combinado,150000,XL,3,ROGER MORA,2026-01-10,450000
+98,Mono largo combinado,150000,L,4,JUAN JOSE RIOS,2026-01-21,600000
+98,Mono largo asimétrico drapeado,289000,S,2,DAVID MIRA,2026-01-25,578000
+98,Vestido maxi volante,199000,XL,2,ROGER MORA,2026-01-15,398000
+99,Mono largo cuello drapeado cinturón,210000,XS,3,DAVID MIRA,2026-01-09,630000
+99,Mono palabra de honor estampado,250000,XS,4,ROGER MORA,2026-03-01,1000000
+99,Vestido corto evasé,120000,L,3,JOHANA FERRARO,2026-02-23,360000
+0,Vestido maxi volante,199000,XXXL,2,JESSICA MORA,2026-01-15,398000
+0,Vestido corto evasé,120000,XS,3,ROGER MORA,2026-01-03,360000
