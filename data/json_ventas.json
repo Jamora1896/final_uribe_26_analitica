@@ -1,0 +1,1992 @@
+[
+    {
+        "venta_id":0,
+        "producto":"Mono largo cuello drapeado cintur\u00f3n",
+        "precioUnitario":210000,
+        "talla":"XXL",
+        "cantidad":2,
+        "vendedor":"Johana Ferraro",
+        "fecha":1768262400000,
+        "total":4941
+    },
+    {
+        "venta_id":0,
+        "producto":"Vestido cuello barco fruncidos",
+        "precioUnitario":185000,
+        "talla":"M",
+        "cantidad":3,
+        "vendedor":"Roger Mora",
+        "fecha":1768003200000,
+        "total":4503
+    },
+    {
+        "venta_id":0,
+        "producto":"Vestido asim\u00e9trico fruncido",
+        "precioUnitario":170000,
+        "talla":"XXXL",
+        "cantidad":1,
+        "vendedor":"David Mira",
+        "fecha":1769731200000,
+        "total":2187
+    },
+    {
+        "venta_id":1,
+        "producto":"Vestido punto cuello perkins",
+        "precioUnitario":110000,
+        "talla":"S",
+        "cantidad":5,
+        "vendedor":"Juan Jose Rios",
+        "fecha":1771113600000,
+        "total":2982
+    },
+    {
+        "venta_id":1,
+        "producto":"Mono largo asim\u00e9trico drapeado",
+        "precioUnitario":289000,
+        "talla":"XS",
+        "cantidad":1,
+        "vendedor":"Alexander Ramirez",
+        "fecha":1769558400000,
+        "total":2128
+    },
+    {
+        "venta_id":2,
+        "producto":"Mono largo combinado",
+        "precioUnitario":150000,
+        "talla":"XS",
+        "cantidad":5,
+        "vendedor":"Johana Ferraro",
+        "fecha":1767657600000,
+        "total":3813
+    },
+    {
+        "venta_id":2,
+        "producto":"Vestido maxi volante",
+        "precioUnitario":199000,
+        "talla":"S",
+        "cantidad":5,
+        "vendedor":"Roger Mora",
+        "fecha":1772496000000,
+        "total":2110
+    },
+    {
+        "venta_id":3,
+        "producto":"Vestido punto cuello perkins",
+        "precioUnitario":110000,
+        "talla":"M",
+        "cantidad":2,
+        "vendedor":"Johana Ferraro",
+        "fecha":1769904000000,
+        "total":2740
+    },
+    {
+        "venta_id":4,
+        "producto":"Vestido cuello barco fruncidos",
+        "precioUnitario":185000,
+        "talla":"S",
+        "cantidad":4,
+        "vendedor":"Laura Mora",
+        "fecha":1769731200000,
+        "total":2591
+    },
+    {
+        "venta_id":4,
+        "producto":"Vestido corto evas\u00e9",
+        "precioUnitario":120000,
+        "talla":"XS",
+        "cantidad":5,
+        "vendedor":"Alexander Ramirez",
+        "fecha":1767657600000,
+        "total":3325
+    },
+    {
+        "venta_id":5,
+        "producto":"Mono largo asim\u00e9trico drapeado",
+        "precioUnitario":289000,
+        "talla":"XXXL",
+        "cantidad":2,
+        "vendedor":"Jessica Mora",
+        "fecha":1769126400000,
+        "total":4734
+    },
+    {
+        "venta_id":6,
+        "producto":"Mono palabra de honor estampado",
+        "precioUnitario":250000,
+        "talla":"XS",
+        "cantidad":1,
+        "vendedor":"Juan Jose Rios",
+        "fecha":1771804800000,
+        "total":4390
+    },
+    {
+        "venta_id":6,
+        "producto":"Vestido punto cuello perkins",
+        "precioUnitario":110000,
+        "talla":"XXXL",
+        "cantidad":4,
+        "vendedor":"Roger Mora",
+        "fecha":1771891200000,
+        "total":3428
+    },
+    {
+        "venta_id":7,
+        "producto":"Vestido punto cuello perkins",
+        "precioUnitario":110000,
+        "talla":"L",
+        "cantidad":4,
+        "vendedor":"Laura Mora",
+        "fecha":1771113600000,
+        "total":1046
+    },
+    {
+        "venta_id":7,
+        "producto":"Mono palabra de honor estampado",
+        "precioUnitario":250000,
+        "talla":"XS",
+        "cantidad":4,
+        "vendedor":"David Mira",
+        "fecha":1771632000000,
+        "total":1269
+    },
+    {
+        "venta_id":7,
+        "producto":"Vestido asim\u00e9trico fruncido",
+        "precioUnitario":170000,
+        "talla":"XXXL",
+        "cantidad":4,
+        "vendedor":"Alexander Ramirez",
+        "fecha":1770249600000,
+        "total":1816
+    },
+    {
+        "venta_id":8,
+        "producto":"Vestido corto evas\u00e9",
+        "precioUnitario":120000,
+        "talla":"S",
+        "cantidad":4,
+        "vendedor":"Laura Mora",
+        "fecha":1771113600000,
+        "total":1739
+    },
+    {
+        "venta_id":8,
+        "producto":"Mono largo asim\u00e9trico drapeado",
+        "precioUnitario":289000,
+        "talla":"M",
+        "cantidad":3,
+        "vendedor":"Johana Ferraro",
+        "fecha":1771113600000,
+        "total":4997
+    },
+    {
+        "venta_id":8,
+        "producto":"Mono palabra de honor estampado",
+        "precioUnitario":250000,
+        "talla":"XL",
+        "cantidad":3,
+        "vendedor":"Laura Mora",
+        "fecha":1769472000000,
+        "total":2297
+    },
+    {
+        "venta_id":9,
+        "producto":"Mono largo asim\u00e9trico drapeado",
+        "precioUnitario":289000,
+        "talla":"XXL",
+        "cantidad":3,
+        "vendedor":"Johana Ferraro",
+        "fecha":1769472000000,
+        "total":4907
+    },
+    {
+        "venta_id":9,
+        "producto":"Vestido asim\u00e9trico fruncido",
+        "precioUnitario":170000,
+        "talla":"XL",
+        "cantidad":5,
+        "vendedor":"Juan Jose Rios",
+        "fecha":1770336000000,
+        "total":2564
+    },
+    {
+        "venta_id":9,
+        "producto":"Vestido cuello barco fruncidos",
+        "precioUnitario":185000,
+        "talla":"XXL",
+        "cantidad":5,
+        "vendedor":"Roger Mora",
+        "fecha":1771632000000,
+        "total":2228
+    },
+    {
+        "venta_id":10,
+        "producto":"Vestido asim\u00e9trico fruncido",
+        "precioUnitario":170000,
+        "talla":"XXL",
+        "cantidad":3,
+        "vendedor":"David Mira",
+        "fecha":1769558400000,
+        "total":4522
+    },
+    {
+        "venta_id":10,
+        "producto":"Vestido maxi volante",
+        "precioUnitario":199000,
+        "talla":"XS",
+        "cantidad":1,
+        "vendedor":"David Mira",
+        "fecha":1772064000000,
+        "total":4342
+    },
+    {
+        "venta_id":10,
+        "producto":"Mono largo combinado",
+        "precioUnitario":150000,
+        "talla":"XXXL",
+        "cantidad":3,
+        "vendedor":"Laura Mora",
+        "fecha":1770768000000,
+        "total":1381
+    },
+    {
+        "venta_id":11,
+        "producto":"Vestido punto cuello perkins",
+        "precioUnitario":110000,
+        "talla":"XXXL",
+        "cantidad":4,
+        "vendedor":"Johana Ferraro",
+        "fecha":1767657600000,
+        "total":1482
+    },
+    {
+        "venta_id":11,
+        "producto":"Vestido corto evas\u00e9",
+        "precioUnitario":120000,
+        "talla":"M",
+        "cantidad":5,
+        "vendedor":"Johana Ferraro",
+        "fecha":1769904000000,
+        "total":2551
+    },
+    {
+        "venta_id":12,
+        "producto":"Vestido corto evas\u00e9",
+        "precioUnitario":120000,
+        "talla":"L",
+        "cantidad":3,
+        "vendedor":"Juan Jose Rios",
+        "fecha":1768089600000,
+        "total":2147
+    },
+    {
+        "venta_id":12,
+        "producto":"Mono largo asim\u00e9trico drapeado",
+        "precioUnitario":289000,
+        "talla":"XXL",
+        "cantidad":1,
+        "vendedor":"Laura Mora",
+        "fecha":1770940800000,
+        "total":2646
+    },
+    {
+        "venta_id":13,
+        "producto":"Vestido punto cuello perkins",
+        "precioUnitario":110000,
+        "talla":"M",
+        "cantidad":3,
+        "vendedor":"Juan Jose Rios",
+        "fecha":1768435200000,
+        "total":1032
+    },
+    {
+        "venta_id":13,
+        "producto":"Mono largo asim\u00e9trico drapeado",
+        "precioUnitario":289000,
+        "talla":"XL",
+        "cantidad":5,
+        "vendedor":"Jessica Mora",
+        "fecha":1771113600000,
+        "total":3491
+    },
+    {
+        "venta_id":13,
+        "producto":"Vestido asim\u00e9trico fruncido",
+        "precioUnitario":170000,
+        "talla":"XS",
+        "cantidad":5,
+        "vendedor":"Roger Mora",
+        "fecha":1768608000000,
+        "total":4526
+    },
+    {
+        "venta_id":14,
+        "producto":"Vestido cuello barco fruncidos",
+        "precioUnitario":185000,
+        "talla":"XL",
+        "cantidad":1,
+        "vendedor":"David Mira",
+        "fecha":1768694400000,
+        "total":3451
+    },
+    {
+        "venta_id":15,
+        "producto":"Mono palabra de honor estampado",
+        "precioUnitario":250000,
+        "talla":"XL",
+        "cantidad":2,
+        "vendedor":"Alexander Ramirez",
+        "fecha":1772236800000,
+        "total":3174
+    },
+    {
+        "venta_id":16,
+        "producto":"Mono raya diplom\u00e1tica combinado",
+        "precioUnitario":350000,
+        "talla":"L",
+        "cantidad":5,
+        "vendedor":"Alexander Ramirez",
+        "fecha":1768003200000,
+        "total":4485
+    },
+    {
+        "venta_id":16,
+        "producto":"Vestido corto evas\u00e9",
+        "precioUnitario":120000,
+        "talla":"XL",
+        "cantidad":3,
+        "vendedor":"Jessica Mora",
+        "fecha":1767484800000,
+        "total":1216
+    },
+    {
+        "venta_id":16,
+        "producto":"Vestido punto cuello perkins",
+        "precioUnitario":110000,
+        "talla":"XXXL",
+        "cantidad":4,
+        "vendedor":"Roger Mora",
+        "fecha":1770422400000,
+        "total":2063
+    },
+    {
+        "venta_id":17,
+        "producto":"Mono largo cuello drapeado cintur\u00f3n",
+        "precioUnitario":210000,
+        "talla":"XXL",
+        "cantidad":4,
+        "vendedor":"Jessica Mora",
+        "fecha":1768780800000,
+        "total":4830
+    },
+    {
+        "venta_id":18,
+        "producto":"Mono palabra de honor estampado",
+        "precioUnitario":250000,
+        "talla":"XS",
+        "cantidad":5,
+        "vendedor":"Roger Mora",
+        "fecha":1771200000000,
+        "total":1843
+    },
+    {
+        "venta_id":19,
+        "producto":"Mono largo cuello drapeado cintur\u00f3n",
+        "precioUnitario":210000,
+        "talla":"XXL",
+        "cantidad":5,
+        "vendedor":"Laura Mora",
+        "fecha":1768348800000,
+        "total":3132
+    },
+    {
+        "venta_id":19,
+        "producto":"Vestido asim\u00e9trico fruncido",
+        "precioUnitario":170000,
+        "talla":"L",
+        "cantidad":3,
+        "vendedor":"Laura Mora",
+        "fecha":1771459200000,
+        "total":2342
+    },
+    {
+        "venta_id":20,
+        "producto":"Mono raya diplom\u00e1tica combinado",
+        "precioUnitario":350000,
+        "talla":"XXXL",
+        "cantidad":5,
+        "vendedor":"Alexander Ramirez",
+        "fecha":1767916800000,
+        "total":3896
+    },
+    {
+        "venta_id":20,
+        "producto":"Vestido maxi volante",
+        "precioUnitario":199000,
+        "talla":"L",
+        "cantidad":4,
+        "vendedor":"Alexander Ramirez",
+        "fecha":1767916800000,
+        "total":4878
+    },
+    {
+        "venta_id":20,
+        "producto":"Mono largo combinado",
+        "precioUnitario":150000,
+        "talla":"S",
+        "cantidad":2,
+        "vendedor":"David Mira",
+        "fecha":1768867200000,
+        "total":3198
+    },
+    {
+        "venta_id":21,
+        "producto":"Vestido maxi volante",
+        "precioUnitario":199000,
+        "talla":"XS",
+        "cantidad":2,
+        "vendedor":"Jessica Mora",
+        "fecha":1768003200000,
+        "total":2935
+    },
+    {
+        "venta_id":21,
+        "producto":"Vestido punto cuello perkins",
+        "precioUnitario":110000,
+        "talla":"XL",
+        "cantidad":5,
+        "vendedor":"Jessica Mora",
+        "fecha":1767657600000,
+        "total":3072
+    },
+    {
+        "venta_id":21,
+        "producto":"Mono palabra de honor estampado",
+        "precioUnitario":250000,
+        "talla":"XL",
+        "cantidad":5,
+        "vendedor":"Alexander Ramirez",
+        "fecha":1772323200000,
+        "total":4763
+    },
+    {
+        "venta_id":22,
+        "producto":"Mono largo cuello drapeado cintur\u00f3n",
+        "precioUnitario":210000,
+        "talla":"S",
+        "cantidad":2,
+        "vendedor":"Alexander Ramirez",
+        "fecha":1768694400000,
+        "total":4119
+    },
+    {
+        "venta_id":22,
+        "producto":"Vestido asim\u00e9trico fruncido",
+        "precioUnitario":170000,
+        "talla":"S",
+        "cantidad":2,
+        "vendedor":"David Mira",
+        "fecha":1771200000000,
+        "total":3119
+    },
+    {
+        "venta_id":22,
+        "producto":"Mono largo combinado",
+        "precioUnitario":150000,
+        "talla":"XXL",
+        "cantidad":4,
+        "vendedor":"Jessica Mora",
+        "fecha":1767571200000,
+        "total":3381
+    },
+    {
+        "venta_id":23,
+        "producto":"Mono largo combinado",
+        "precioUnitario":150000,
+        "talla":"XS",
+        "cantidad":3,
+        "vendedor":"David Mira",
+        "fecha":1769299200000,
+        "total":4091
+    },
+    {
+        "venta_id":23,
+        "producto":"Vestido punto cuello perkins",
+        "precioUnitario":110000,
+        "talla":"L",
+        "cantidad":4,
+        "vendedor":"Laura Mora",
+        "fecha":1771804800000,
+        "total":2881
+    },
+    {
+        "venta_id":24,
+        "producto":"Vestido cuello barco fruncidos",
+        "precioUnitario":185000,
+        "talla":"S",
+        "cantidad":5,
+        "vendedor":"Roger Mora",
+        "fecha":1768867200000,
+        "total":1458
+    },
+    {
+        "venta_id":25,
+        "producto":"Vestido asim\u00e9trico fruncido",
+        "precioUnitario":170000,
+        "talla":"XXL",
+        "cantidad":1,
+        "vendedor":"Jessica Mora",
+        "fecha":1772150400000,
+        "total":1965
+    },
+    {
+        "venta_id":26,
+        "producto":"Mono palabra de honor estampado",
+        "precioUnitario":250000,
+        "talla":"L",
+        "cantidad":3,
+        "vendedor":"David Mira",
+        "fecha":1772409600000,
+        "total":1680
+    },
+    {
+        "venta_id":26,
+        "producto":"Mono largo combinado",
+        "precioUnitario":150000,
+        "talla":"S",
+        "cantidad":3,
+        "vendedor":"Roger Mora",
+        "fecha":1771718400000,
+        "total":1848
+    },
+    {
+        "venta_id":26,
+        "producto":"Vestido corto evas\u00e9",
+        "precioUnitario":120000,
+        "talla":"L",
+        "cantidad":5,
+        "vendedor":"Jessica Mora",
+        "fecha":1772496000000,
+        "total":4581
+    },
+    {
+        "venta_id":27,
+        "producto":"Mono raya diplom\u00e1tica combinado",
+        "precioUnitario":350000,
+        "talla":"XS",
+        "cantidad":3,
+        "vendedor":"Johana Ferraro",
+        "fecha":1771718400000,
+        "total":1390
+    },
+    {
+        "venta_id":27,
+        "producto":"Mono largo combinado",
+        "precioUnitario":150000,
+        "talla":"S",
+        "cantidad":2,
+        "vendedor":"Roger Mora",
+        "fecha":1767484800000,
+        "total":1636
+    },
+    {
+        "venta_id":28,
+        "producto":"Mono largo cuello drapeado cintur\u00f3n",
+        "precioUnitario":210000,
+        "talla":"XS",
+        "cantidad":1,
+        "vendedor":"Alexander Ramirez",
+        "fecha":1771027200000,
+        "total":4108
+    },
+    {
+        "venta_id":29,
+        "producto":"Vestido corto evas\u00e9",
+        "precioUnitario":120000,
+        "talla":"S",
+        "cantidad":2,
+        "vendedor":"Laura Mora",
+        "fecha":1771977600000,
+        "total":3043
+    },
+    {
+        "venta_id":30,
+        "producto":"Mono raya diplom\u00e1tica combinado",
+        "precioUnitario":350000,
+        "talla":"XS",
+        "cantidad":1,
+        "vendedor":"Jessica Mora",
+        "fecha":1767916800000,
+        "total":1379
+    },
+    {
+        "venta_id":30,
+        "producto":"Vestido punto cuello perkins",
+        "precioUnitario":110000,
+        "talla":"XL",
+        "cantidad":3,
+        "vendedor":"Alexander Ramirez",
+        "fecha":1769472000000,
+        "total":2814
+    },
+    {
+        "venta_id":31,
+        "producto":"Mono largo asim\u00e9trico drapeado",
+        "precioUnitario":289000,
+        "talla":"XXL",
+        "cantidad":4,
+        "vendedor":"David Mira",
+        "fecha":1767312000000,
+        "total":4378
+    },
+    {
+        "venta_id":32,
+        "producto":"Vestido maxi volante",
+        "precioUnitario":199000,
+        "talla":"XS",
+        "cantidad":1,
+        "vendedor":"David Mira",
+        "fecha":1771977600000,
+        "total":4285
+    },
+    {
+        "venta_id":32,
+        "producto":"Mono largo cuello drapeado cintur\u00f3n",
+        "precioUnitario":210000,
+        "talla":"S",
+        "cantidad":1,
+        "vendedor":"Laura Mora",
+        "fecha":1771372800000,
+        "total":1540
+    },
+    {
+        "venta_id":33,
+        "producto":"Mono palabra de honor estampado",
+        "precioUnitario":250000,
+        "talla":"S",
+        "cantidad":5,
+        "vendedor":"David Mira",
+        "fecha":1768089600000,
+        "total":4437
+    },
+    {
+        "venta_id":34,
+        "producto":"Mono palabra de honor estampado",
+        "precioUnitario":250000,
+        "talla":"M",
+        "cantidad":2,
+        "vendedor":"David Mira",
+        "fecha":1767830400000,
+        "total":2968
+    },
+    {
+        "venta_id":35,
+        "producto":"Vestido punto cuello perkins",
+        "precioUnitario":110000,
+        "talla":"XS",
+        "cantidad":3,
+        "vendedor":"Laura Mora",
+        "fecha":1769472000000,
+        "total":2656
+    },
+    {
+        "venta_id":35,
+        "producto":"Mono largo combinado",
+        "precioUnitario":150000,
+        "talla":"S",
+        "cantidad":1,
+        "vendedor":"Roger Mora",
+        "fecha":1769299200000,
+        "total":1373
+    },
+    {
+        "venta_id":35,
+        "producto":"Vestido maxi volante",
+        "precioUnitario":199000,
+        "talla":"XS",
+        "cantidad":3,
+        "vendedor":"Jessica Mora",
+        "fecha":1767657600000,
+        "total":4224
+    },
+    {
+        "venta_id":36,
+        "producto":"Mono palabra de honor estampado",
+        "precioUnitario":250000,
+        "talla":"XXXL",
+        "cantidad":1,
+        "vendedor":"Juan Jose Rios",
+        "fecha":1767916800000,
+        "total":1691
+    },
+    {
+        "venta_id":36,
+        "producto":"Vestido corto evas\u00e9",
+        "precioUnitario":120000,
+        "talla":"L",
+        "cantidad":3,
+        "vendedor":"Johana Ferraro",
+        "fecha":1771372800000,
+        "total":1978
+    },
+    {
+        "venta_id":36,
+        "producto":"Vestido punto cuello perkins",
+        "precioUnitario":110000,
+        "talla":"XS",
+        "cantidad":1,
+        "vendedor":"Jessica Mora",
+        "fecha":1770422400000,
+        "total":1584
+    },
+    {
+        "venta_id":37,
+        "producto":"Mono raya diplom\u00e1tica combinado",
+        "precioUnitario":350000,
+        "talla":"XXXL",
+        "cantidad":5,
+        "vendedor":"Laura Mora",
+        "fecha":1771545600000,
+        "total":1860
+    },
+    {
+        "venta_id":38,
+        "producto":"Vestido asim\u00e9trico fruncido",
+        "precioUnitario":170000,
+        "talla":"XS",
+        "cantidad":2,
+        "vendedor":"Johana Ferraro",
+        "fecha":1767830400000,
+        "total":4474
+    },
+    {
+        "venta_id":38,
+        "producto":"Vestido punto cuello perkins",
+        "precioUnitario":110000,
+        "talla":"L",
+        "cantidad":5,
+        "vendedor":"Johana Ferraro",
+        "fecha":1770681600000,
+        "total":1695
+    },
+    {
+        "venta_id":38,
+        "producto":"Mono largo asim\u00e9trico drapeado",
+        "precioUnitario":289000,
+        "talla":"XXL",
+        "cantidad":5,
+        "vendedor":"Juan Jose Rios",
+        "fecha":1768608000000,
+        "total":4292
+    },
+    {
+        "venta_id":39,
+        "producto":"Vestido corto evas\u00e9",
+        "precioUnitario":120000,
+        "talla":"L",
+        "cantidad":5,
+        "vendedor":"Jessica Mora",
+        "fecha":1770422400000,
+        "total":2892
+    },
+    {
+        "venta_id":39,
+        "producto":"Vestido cuello barco fruncidos",
+        "precioUnitario":185000,
+        "talla":"S",
+        "cantidad":1,
+        "vendedor":"Laura Mora",
+        "fecha":1769904000000,
+        "total":4683
+    },
+    {
+        "venta_id":39,
+        "producto":"Mono largo combinado",
+        "precioUnitario":150000,
+        "talla":"XXL",
+        "cantidad":5,
+        "vendedor":"Jessica Mora",
+        "fecha":1770508800000,
+        "total":1535
+    },
+    {
+        "venta_id":40,
+        "producto":"Vestido cuello barco fruncidos",
+        "precioUnitario":185000,
+        "talla":"L",
+        "cantidad":3,
+        "vendedor":"Juan Jose Rios",
+        "fecha":1768348800000,
+        "total":1403
+    },
+    {
+        "venta_id":41,
+        "producto":"Vestido punto cuello perkins",
+        "precioUnitario":110000,
+        "talla":"L",
+        "cantidad":3,
+        "vendedor":"Johana Ferraro",
+        "fecha":1770422400000,
+        "total":3685
+    },
+    {
+        "venta_id":41,
+        "producto":"Vestido maxi volante",
+        "precioUnitario":199000,
+        "talla":"M",
+        "cantidad":5,
+        "vendedor":"Roger Mora",
+        "fecha":1769904000000,
+        "total":3344
+    },
+    {
+        "venta_id":42,
+        "producto":"Mono largo cuello drapeado cintur\u00f3n",
+        "precioUnitario":210000,
+        "talla":"S",
+        "cantidad":3,
+        "vendedor":"Juan Jose Rios",
+        "fecha":1767657600000,
+        "total":3758
+    },
+    {
+        "venta_id":43,
+        "producto":"Mono largo asim\u00e9trico drapeado",
+        "precioUnitario":289000,
+        "talla":"L",
+        "cantidad":1,
+        "vendedor":"Juan Jose Rios",
+        "fecha":1772064000000,
+        "total":3632
+    },
+    {
+        "venta_id":44,
+        "producto":"Vestido maxi volante",
+        "precioUnitario":199000,
+        "talla":"XS",
+        "cantidad":3,
+        "vendedor":"Roger Mora",
+        "fecha":1768694400000,
+        "total":2949
+    },
+    {
+        "venta_id":45,
+        "producto":"Vestido maxi volante",
+        "precioUnitario":199000,
+        "talla":"L",
+        "cantidad":4,
+        "vendedor":"Johana Ferraro",
+        "fecha":1770076800000,
+        "total":4650
+    },
+    {
+        "venta_id":46,
+        "producto":"Mono largo combinado",
+        "precioUnitario":150000,
+        "talla":"XXXL",
+        "cantidad":2,
+        "vendedor":"Roger Mora",
+        "fecha":1770249600000,
+        "total":3991
+    },
+    {
+        "venta_id":47,
+        "producto":"Mono largo asim\u00e9trico drapeado",
+        "precioUnitario":289000,
+        "talla":"L",
+        "cantidad":1,
+        "vendedor":"Alexander Ramirez",
+        "fecha":1768262400000,
+        "total":1564
+    },
+    {
+        "venta_id":47,
+        "producto":"Mono largo cuello drapeado cintur\u00f3n",
+        "precioUnitario":210000,
+        "talla":"L",
+        "cantidad":1,
+        "vendedor":"Jessica Mora",
+        "fecha":1772064000000,
+        "total":4468
+    },
+    {
+        "venta_id":47,
+        "producto":"Vestido punto cuello perkins",
+        "precioUnitario":110000,
+        "talla":"XL",
+        "cantidad":2,
+        "vendedor":"Johana Ferraro",
+        "fecha":1769990400000,
+        "total":4036
+    },
+    {
+        "venta_id":48,
+        "producto":"Mono palabra de honor estampado",
+        "precioUnitario":250000,
+        "talla":"S",
+        "cantidad":2,
+        "vendedor":"Juan Jose Rios",
+        "fecha":1769299200000,
+        "total":3731
+    },
+    {
+        "venta_id":48,
+        "producto":"Mono largo asim\u00e9trico drapeado",
+        "precioUnitario":289000,
+        "talla":"XS",
+        "cantidad":5,
+        "vendedor":"Jessica Mora",
+        "fecha":1769990400000,
+        "total":2352
+    },
+    {
+        "venta_id":48,
+        "producto":"Mono largo combinado",
+        "precioUnitario":150000,
+        "talla":"L",
+        "cantidad":2,
+        "vendedor":"Roger Mora",
+        "fecha":1768867200000,
+        "total":3900
+    },
+    {
+        "venta_id":49,
+        "producto":"Mono largo cuello drapeado cintur\u00f3n",
+        "precioUnitario":210000,
+        "talla":"XL",
+        "cantidad":3,
+        "vendedor":"Alexander Ramirez",
+        "fecha":1769558400000,
+        "total":4925
+    },
+    {
+        "venta_id":50,
+        "producto":"Vestido cuello barco fruncidos",
+        "precioUnitario":185000,
+        "talla":"XXXL",
+        "cantidad":3,
+        "vendedor":"Jessica Mora",
+        "fecha":1769126400000,
+        "total":1045
+    },
+    {
+        "venta_id":50,
+        "producto":"Mono largo combinado",
+        "precioUnitario":150000,
+        "talla":"S",
+        "cantidad":3,
+        "vendedor":"Jessica Mora",
+        "fecha":1768953600000,
+        "total":1375
+    },
+    {
+        "venta_id":51,
+        "producto":"Mono largo cuello drapeado cintur\u00f3n",
+        "precioUnitario":210000,
+        "talla":"M",
+        "cantidad":1,
+        "vendedor":"Laura Mora",
+        "fecha":1768003200000,
+        "total":4081
+    },
+    {
+        "venta_id":51,
+        "producto":"Vestido asim\u00e9trico fruncido",
+        "precioUnitario":170000,
+        "talla":"L",
+        "cantidad":3,
+        "vendedor":"David Mira",
+        "fecha":1770681600000,
+        "total":2282
+    },
+    {
+        "venta_id":52,
+        "producto":"Vestido punto cuello perkins",
+        "precioUnitario":110000,
+        "talla":"XL",
+        "cantidad":3,
+        "vendedor":"David Mira",
+        "fecha":1768953600000,
+        "total":1563
+    },
+    {
+        "venta_id":52,
+        "producto":"Mono largo asim\u00e9trico drapeado",
+        "precioUnitario":289000,
+        "talla":"XXXL",
+        "cantidad":5,
+        "vendedor":"Alexander Ramirez",
+        "fecha":1770336000000,
+        "total":3554
+    },
+    {
+        "venta_id":53,
+        "producto":"Vestido corto evas\u00e9",
+        "precioUnitario":120000,
+        "talla":"S",
+        "cantidad":4,
+        "vendedor":"Johana Ferraro",
+        "fecha":1769904000000,
+        "total":2105
+    },
+    {
+        "venta_id":53,
+        "producto":"Mono palabra de honor estampado",
+        "precioUnitario":250000,
+        "talla":"XXL",
+        "cantidad":2,
+        "vendedor":"Jessica Mora",
+        "fecha":1768694400000,
+        "total":4601
+    },
+    {
+        "venta_id":54,
+        "producto":"Vestido asim\u00e9trico fruncido",
+        "precioUnitario":170000,
+        "talla":"XS",
+        "cantidad":4,
+        "vendedor":"Laura Mora",
+        "fecha":1771545600000,
+        "total":3700
+    },
+    {
+        "venta_id":55,
+        "producto":"Mono largo combinado",
+        "precioUnitario":150000,
+        "talla":"M",
+        "cantidad":4,
+        "vendedor":"Johana Ferraro",
+        "fecha":1771372800000,
+        "total":4250
+    },
+    {
+        "venta_id":55,
+        "producto":"Mono largo cuello drapeado cintur\u00f3n",
+        "precioUnitario":210000,
+        "talla":"S",
+        "cantidad":2,
+        "vendedor":"Alexander Ramirez",
+        "fecha":1768608000000,
+        "total":3661
+    },
+    {
+        "venta_id":56,
+        "producto":"Vestido cuello barco fruncidos",
+        "precioUnitario":185000,
+        "talla":"S",
+        "cantidad":2,
+        "vendedor":"Juan Jose Rios",
+        "fecha":1772064000000,
+        "total":3415
+    },
+    {
+        "venta_id":56,
+        "producto":"Mono largo combinado",
+        "precioUnitario":150000,
+        "talla":"XXXL",
+        "cantidad":3,
+        "vendedor":"Johana Ferraro",
+        "fecha":1769472000000,
+        "total":3525
+    },
+    {
+        "venta_id":56,
+        "producto":"Vestido asim\u00e9trico fruncido",
+        "precioUnitario":170000,
+        "talla":"XL",
+        "cantidad":3,
+        "vendedor":"Laura Mora",
+        "fecha":1769212800000,
+        "total":4746
+    },
+    {
+        "venta_id":57,
+        "producto":"Vestido punto cuello perkins",
+        "precioUnitario":110000,
+        "talla":"XS",
+        "cantidad":1,
+        "vendedor":"Johana Ferraro",
+        "fecha":1769990400000,
+        "total":3731
+    },
+    {
+        "venta_id":57,
+        "producto":"Mono palabra de honor estampado",
+        "precioUnitario":250000,
+        "talla":"L",
+        "cantidad":4,
+        "vendedor":"Laura Mora",
+        "fecha":1767312000000,
+        "total":3868
+    },
+    {
+        "venta_id":58,
+        "producto":"Mono largo asim\u00e9trico drapeado",
+        "precioUnitario":289000,
+        "talla":"XL",
+        "cantidad":2,
+        "vendedor":"Jessica Mora",
+        "fecha":1767830400000,
+        "total":1404
+    },
+    {
+        "venta_id":59,
+        "producto":"Mono largo cuello drapeado cintur\u00f3n",
+        "precioUnitario":210000,
+        "talla":"S",
+        "cantidad":5,
+        "vendedor":"Juan Jose Rios",
+        "fecha":1767312000000,
+        "total":4379
+    },
+    {
+        "venta_id":59,
+        "producto":"Vestido corto evas\u00e9",
+        "precioUnitario":120000,
+        "talla":"XXXL",
+        "cantidad":2,
+        "vendedor":"Juan Jose Rios",
+        "fecha":1767398400000,
+        "total":1449
+    },
+    {
+        "venta_id":59,
+        "producto":"Mono largo asim\u00e9trico drapeado",
+        "precioUnitario":289000,
+        "talla":"L",
+        "cantidad":4,
+        "vendedor":"Roger Mora",
+        "fecha":1771977600000,
+        "total":2125
+    },
+    {
+        "venta_id":60,
+        "producto":"Mono largo asim\u00e9trico drapeado",
+        "precioUnitario":289000,
+        "talla":"XS",
+        "cantidad":4,
+        "vendedor":"David Mira",
+        "fecha":1771372800000,
+        "total":1182
+    },
+    {
+        "venta_id":60,
+        "producto":"Vestido corto evas\u00e9",
+        "precioUnitario":120000,
+        "talla":"S",
+        "cantidad":2,
+        "vendedor":"Jessica Mora",
+        "fecha":1770163200000,
+        "total":3484
+    },
+    {
+        "venta_id":60,
+        "producto":"Vestido maxi volante",
+        "precioUnitario":199000,
+        "talla":"XXL",
+        "cantidad":4,
+        "vendedor":"Alexander Ramirez",
+        "fecha":1767312000000,
+        "total":2661
+    },
+    {
+        "venta_id":61,
+        "producto":"Vestido cuello barco fruncidos",
+        "precioUnitario":185000,
+        "talla":"XL",
+        "cantidad":1,
+        "vendedor":"David Mira",
+        "fecha":1772236800000,
+        "total":2750
+    },
+    {
+        "venta_id":61,
+        "producto":"Vestido asim\u00e9trico fruncido",
+        "precioUnitario":170000,
+        "talla":"M",
+        "cantidad":2,
+        "vendedor":"Laura Mora",
+        "fecha":1768089600000,
+        "total":3313
+    },
+    {
+        "venta_id":62,
+        "producto":"Mono raya diplom\u00e1tica combinado",
+        "precioUnitario":350000,
+        "talla":"L",
+        "cantidad":4,
+        "vendedor":"Jessica Mora",
+        "fecha":1771891200000,
+        "total":4315
+    },
+    {
+        "venta_id":62,
+        "producto":"Vestido cuello barco fruncidos",
+        "precioUnitario":185000,
+        "talla":"L",
+        "cantidad":4,
+        "vendedor":"David Mira",
+        "fecha":1771977600000,
+        "total":4904
+    },
+    {
+        "venta_id":62,
+        "producto":"Vestido asim\u00e9trico fruncido",
+        "precioUnitario":170000,
+        "talla":"XL",
+        "cantidad":2,
+        "vendedor":"Juan Jose Rios",
+        "fecha":1771545600000,
+        "total":3723
+    },
+    {
+        "venta_id":63,
+        "producto":"Mono raya diplom\u00e1tica combinado",
+        "precioUnitario":350000,
+        "talla":"XXL",
+        "cantidad":4,
+        "vendedor":"Jessica Mora",
+        "fecha":1769817600000,
+        "total":3611
+    },
+    {
+        "venta_id":64,
+        "producto":"Vestido asim\u00e9trico fruncido",
+        "precioUnitario":170000,
+        "talla":"XXL",
+        "cantidad":4,
+        "vendedor":"Juan Jose Rios",
+        "fecha":1768262400000,
+        "total":3692
+    },
+    {
+        "venta_id":65,
+        "producto":"Vestido corto evas\u00e9",
+        "precioUnitario":120000,
+        "talla":"S",
+        "cantidad":5,
+        "vendedor":"Johana Ferraro",
+        "fecha":1771200000000,
+        "total":1646
+    },
+    {
+        "venta_id":66,
+        "producto":"Vestido maxi volante",
+        "precioUnitario":199000,
+        "talla":"M",
+        "cantidad":1,
+        "vendedor":"David Mira",
+        "fecha":1767744000000,
+        "total":1711
+    },
+    {
+        "venta_id":67,
+        "producto":"Vestido maxi volante",
+        "precioUnitario":199000,
+        "talla":"L",
+        "cantidad":5,
+        "vendedor":"Jessica Mora",
+        "fecha":1770854400000,
+        "total":3264
+    },
+    {
+        "venta_id":67,
+        "producto":"Vestido punto cuello perkins",
+        "precioUnitario":110000,
+        "talla":"XXL",
+        "cantidad":5,
+        "vendedor":"Alexander Ramirez",
+        "fecha":1770163200000,
+        "total":1750
+    },
+    {
+        "venta_id":67,
+        "producto":"Mono largo combinado",
+        "precioUnitario":150000,
+        "talla":"M",
+        "cantidad":3,
+        "vendedor":"Alexander Ramirez",
+        "fecha":1772496000000,
+        "total":2887
+    },
+    {
+        "venta_id":68,
+        "producto":"Mono largo cuello drapeado cintur\u00f3n",
+        "precioUnitario":210000,
+        "talla":"XS",
+        "cantidad":5,
+        "vendedor":"Alexander Ramirez",
+        "fecha":1767657600000,
+        "total":2467
+    },
+    {
+        "venta_id":68,
+        "producto":"Vestido asim\u00e9trico fruncido",
+        "precioUnitario":170000,
+        "talla":"XS",
+        "cantidad":4,
+        "vendedor":"Juan Jose Rios",
+        "fecha":1772236800000,
+        "total":4135
+    },
+    {
+        "venta_id":68,
+        "producto":"Mono largo combinado",
+        "precioUnitario":150000,
+        "talla":"L",
+        "cantidad":4,
+        "vendedor":"Alexander Ramirez",
+        "fecha":1772323200000,
+        "total":1743
+    },
+    {
+        "venta_id":69,
+        "producto":"Vestido maxi volante",
+        "precioUnitario":199000,
+        "talla":"M",
+        "cantidad":3,
+        "vendedor":"Laura Mora",
+        "fecha":1768521600000,
+        "total":2600
+    },
+    {
+        "venta_id":69,
+        "producto":"Mono largo cuello drapeado cintur\u00f3n",
+        "precioUnitario":210000,
+        "talla":"XS",
+        "cantidad":3,
+        "vendedor":"Laura Mora",
+        "fecha":1771632000000,
+        "total":4537
+    },
+    {
+        "venta_id":70,
+        "producto":"Vestido maxi volante",
+        "precioUnitario":199000,
+        "talla":"XXXL",
+        "cantidad":2,
+        "vendedor":"Alexander Ramirez",
+        "fecha":1769299200000,
+        "total":1987
+    },
+    {
+        "venta_id":70,
+        "producto":"Vestido punto cuello perkins",
+        "precioUnitario":110000,
+        "talla":"M",
+        "cantidad":3,
+        "vendedor":"Jessica Mora",
+        "fecha":1772064000000,
+        "total":3171
+    },
+    {
+        "venta_id":70,
+        "producto":"Mono raya diplom\u00e1tica combinado",
+        "precioUnitario":350000,
+        "talla":"M",
+        "cantidad":3,
+        "vendedor":"Laura Mora",
+        "fecha":1771286400000,
+        "total":4258
+    },
+    {
+        "venta_id":71,
+        "producto":"Vestido punto cuello perkins",
+        "precioUnitario":110000,
+        "talla":"M",
+        "cantidad":3,
+        "vendedor":"Johana Ferraro",
+        "fecha":1769040000000,
+        "total":3824
+    },
+    {
+        "venta_id":71,
+        "producto":"Vestido corto evas\u00e9",
+        "precioUnitario":120000,
+        "talla":"XS",
+        "cantidad":1,
+        "vendedor":"Jessica Mora",
+        "fecha":1768003200000,
+        "total":3631
+    },
+    {
+        "venta_id":71,
+        "producto":"Mono palabra de honor estampado",
+        "precioUnitario":250000,
+        "talla":"M",
+        "cantidad":2,
+        "vendedor":"Roger Mora",
+        "fecha":1769644800000,
+        "total":2430
+    },
+    {
+        "venta_id":72,
+        "producto":"Mono raya diplom\u00e1tica combinado",
+        "precioUnitario":350000,
+        "talla":"XS",
+        "cantidad":3,
+        "vendedor":"David Mira",
+        "fecha":1771459200000,
+        "total":2079
+    },
+    {
+        "venta_id":72,
+        "producto":"Vestido asim\u00e9trico fruncido",
+        "precioUnitario":170000,
+        "talla":"L",
+        "cantidad":2,
+        "vendedor":"Juan Jose Rios",
+        "fecha":1768953600000,
+        "total":2039
+    },
+    {
+        "venta_id":72,
+        "producto":"Vestido corto evas\u00e9",
+        "precioUnitario":120000,
+        "talla":"XXL",
+        "cantidad":4,
+        "vendedor":"Alexander Ramirez",
+        "fecha":1768521600000,
+        "total":4604
+    },
+    {
+        "venta_id":73,
+        "producto":"Mono largo combinado",
+        "precioUnitario":150000,
+        "talla":"XL",
+        "cantidad":1,
+        "vendedor":"Roger Mora",
+        "fecha":1768435200000,
+        "total":2577
+    },
+    {
+        "venta_id":74,
+        "producto":"Mono largo combinado",
+        "precioUnitario":150000,
+        "talla":"XS",
+        "cantidad":4,
+        "vendedor":"Johana Ferraro",
+        "fecha":1770681600000,
+        "total":2443
+    },
+    {
+        "venta_id":75,
+        "producto":"Vestido cuello barco fruncidos",
+        "precioUnitario":185000,
+        "talla":"XS",
+        "cantidad":1,
+        "vendedor":"Roger Mora",
+        "fecha":1772323200000,
+        "total":1061
+    },
+    {
+        "venta_id":76,
+        "producto":"Vestido corto evas\u00e9",
+        "precioUnitario":120000,
+        "talla":"S",
+        "cantidad":3,
+        "vendedor":"Juan Jose Rios",
+        "fecha":1769126400000,
+        "total":3378
+    },
+    {
+        "venta_id":76,
+        "producto":"Vestido maxi volante",
+        "precioUnitario":199000,
+        "talla":"XS",
+        "cantidad":2,
+        "vendedor":"Laura Mora",
+        "fecha":1769558400000,
+        "total":1889
+    },
+    {
+        "venta_id":76,
+        "producto":"Vestido cuello barco fruncidos",
+        "precioUnitario":185000,
+        "talla":"XXL",
+        "cantidad":4,
+        "vendedor":"Laura Mora",
+        "fecha":1767398400000,
+        "total":3068
+    },
+    {
+        "venta_id":77,
+        "producto":"Vestido asim\u00e9trico fruncido",
+        "precioUnitario":170000,
+        "talla":"XS",
+        "cantidad":5,
+        "vendedor":"Laura Mora",
+        "fecha":1767312000000,
+        "total":4658
+    },
+    {
+        "venta_id":77,
+        "producto":"Mono largo combinado",
+        "precioUnitario":150000,
+        "talla":"M",
+        "cantidad":1,
+        "vendedor":"Johana Ferraro",
+        "fecha":1769990400000,
+        "total":1148
+    },
+    {
+        "venta_id":78,
+        "producto":"Mono raya diplom\u00e1tica combinado",
+        "precioUnitario":350000,
+        "talla":"XXXL",
+        "cantidad":3,
+        "vendedor":"Alexander Ramirez",
+        "fecha":1772150400000,
+        "total":2292
+    },
+    {
+        "venta_id":78,
+        "producto":"Vestido cuello barco fruncidos",
+        "precioUnitario":185000,
+        "talla":"L",
+        "cantidad":5,
+        "vendedor":"Jessica Mora",
+        "fecha":1767916800000,
+        "total":3852
+    },
+    {
+        "venta_id":79,
+        "producto":"Vestido corto evas\u00e9",
+        "precioUnitario":120000,
+        "talla":"XXL",
+        "cantidad":4,
+        "vendedor":"Johana Ferraro",
+        "fecha":1767830400000,
+        "total":3312
+    },
+    {
+        "venta_id":79,
+        "producto":"Mono raya diplom\u00e1tica combinado",
+        "precioUnitario":350000,
+        "talla":"XXL",
+        "cantidad":2,
+        "vendedor":"Roger Mora",
+        "fecha":1767916800000,
+        "total":3772
+    },
+    {
+        "venta_id":79,
+        "producto":"Vestido cuello barco fruncidos",
+        "precioUnitario":185000,
+        "talla":"XL",
+        "cantidad":5,
+        "vendedor":"Jessica Mora",
+        "fecha":1771545600000,
+        "total":4183
+    },
+    {
+        "venta_id":80,
+        "producto":"Mono largo asim\u00e9trico drapeado",
+        "precioUnitario":289000,
+        "talla":"XL",
+        "cantidad":5,
+        "vendedor":"David Mira",
+        "fecha":1767398400000,
+        "total":4492
+    },
+    {
+        "venta_id":80,
+        "producto":"Mono palabra de honor estampado",
+        "precioUnitario":250000,
+        "talla":"M",
+        "cantidad":3,
+        "vendedor":"Johana Ferraro",
+        "fecha":1770336000000,
+        "total":2621
+    },
+    {
+        "venta_id":80,
+        "producto":"Mono largo combinado",
+        "precioUnitario":150000,
+        "talla":"M",
+        "cantidad":2,
+        "vendedor":"Laura Mora",
+        "fecha":1768608000000,
+        "total":1770
+    },
+    {
+        "venta_id":81,
+        "producto":"Mono raya diplom\u00e1tica combinado",
+        "precioUnitario":350000,
+        "talla":"L",
+        "cantidad":1,
+        "vendedor":"David Mira",
+        "fecha":1770336000000,
+        "total":4606
+    },
+    {
+        "venta_id":81,
+        "producto":"Vestido corto evas\u00e9",
+        "precioUnitario":120000,
+        "talla":"S",
+        "cantidad":5,
+        "vendedor":"Roger Mora",
+        "fecha":1771804800000,
+        "total":3544
+    },
+    {
+        "venta_id":81,
+        "producto":"Vestido cuello barco fruncidos",
+        "precioUnitario":185000,
+        "talla":"XXXL",
+        "cantidad":3,
+        "vendedor":"David Mira",
+        "fecha":1770076800000,
+        "total":4118
+    },
+    {
+        "venta_id":82,
+        "producto":"Mono largo cuello drapeado cintur\u00f3n",
+        "precioUnitario":210000,
+        "talla":"XXXL",
+        "cantidad":5,
+        "vendedor":"Johana Ferraro",
+        "fecha":1767571200000,
+        "total":1808
+    },
+    {
+        "venta_id":82,
+        "producto":"Vestido cuello barco fruncidos",
+        "precioUnitario":185000,
+        "talla":"M",
+        "cantidad":2,
+        "vendedor":"Roger Mora",
+        "fecha":1768694400000,
+        "total":4798
+    },
+    {
+        "venta_id":83,
+        "producto":"Mono largo combinado",
+        "precioUnitario":150000,
+        "talla":"L",
+        "cantidad":3,
+        "vendedor":"Alexander Ramirez",
+        "fecha":1767484800000,
+        "total":4890
+    },
+    {
+        "venta_id":83,
+        "producto":"Vestido maxi volante",
+        "precioUnitario":199000,
+        "talla":"M",
+        "cantidad":5,
+        "vendedor":"David Mira",
+        "fecha":1769731200000,
+        "total":2797
+    },
+    {
+        "venta_id":83,
+        "producto":"Vestido punto cuello perkins",
+        "precioUnitario":110000,
+        "talla":"XXXL",
+        "cantidad":4,
+        "vendedor":"Roger Mora",
+        "fecha":1770681600000,
+        "total":3117
+    },
+    {
+        "venta_id":84,
+        "producto":"Mono raya diplom\u00e1tica combinado",
+        "precioUnitario":350000,
+        "talla":"M",
+        "cantidad":2,
+        "vendedor":"David Mira",
+        "fecha":1769990400000,
+        "total":4167
+    },
+    {
+        "venta_id":85,
+        "producto":"Mono palabra de honor estampado",
+        "precioUnitario":250000,
+        "talla":"L",
+        "cantidad":1,
+        "vendedor":"Juan Jose Rios",
+        "fecha":1769731200000,
+        "total":3961
+    },
+    {
+        "venta_id":86,
+        "producto":"Mono largo cuello drapeado cintur\u00f3n",
+        "precioUnitario":210000,
+        "talla":"S",
+        "cantidad":5,
+        "vendedor":"David Mira",
+        "fecha":1769385600000,
+        "total":2620
+    },
+    {
+        "venta_id":86,
+        "producto":"Vestido asim\u00e9trico fruncido",
+        "precioUnitario":170000,
+        "talla":"XXXL",
+        "cantidad":5,
+        "vendedor":"Laura Mora",
+        "fecha":1771027200000,
+        "total":1710
+    },
+    {
+        "venta_id":86,
+        "producto":"Vestido corto evas\u00e9",
+        "precioUnitario":120000,
+        "talla":"XS",
+        "cantidad":5,
+        "vendedor":"Laura Mora",
+        "fecha":1770681600000,
+        "total":2396
+    },
+    {
+        "venta_id":87,
+        "producto":"Vestido punto cuello perkins",
+        "precioUnitario":110000,
+        "talla":"M",
+        "cantidad":4,
+        "vendedor":"Juan Jose Rios",
+        "fecha":1768953600000,
+        "total":3252
+    },
+    {
+        "venta_id":87,
+        "producto":"Vestido corto evas\u00e9",
+        "precioUnitario":120000,
+        "talla":"L",
+        "cantidad":5,
+        "vendedor":"David Mira",
+        "fecha":1770768000000,
+        "total":1801
+    },
+    {
+        "venta_id":88,
+        "producto":"Mono largo combinado",
+        "precioUnitario":150000,
+        "talla":"XL",
+        "cantidad":2,
+        "vendedor":"David Mira",
+        "fecha":1769472000000,
+        "total":3070
+    },
+    {
+        "venta_id":88,
+        "producto":"Vestido maxi volante",
+        "precioUnitario":199000,
+        "talla":"XXL",
+        "cantidad":4,
+        "vendedor":"Roger Mora",
+        "fecha":1769990400000,
+        "total":1137
+    },
+    {
+        "venta_id":88,
+        "producto":"Mono largo cuello drapeado cintur\u00f3n",
+        "precioUnitario":210000,
+        "talla":"XXXL",
+        "cantidad":4,
+        "vendedor":"Laura Mora",
+        "fecha":1771286400000,
+        "total":1235
+    },
+    {
+        "venta_id":89,
+        "producto":"Mono palabra de honor estampado",
+        "precioUnitario":250000,
+        "talla":"M",
+        "cantidad":5,
+        "vendedor":"Juan Jose Rios",
+        "fecha":1768521600000,
+        "total":1356
+    },
+    {
+        "venta_id":90,
+        "producto":"Vestido cuello barco fruncidos",
+        "precioUnitario":185000,
+        "talla":"S",
+        "cantidad":3,
+        "vendedor":"Jessica Mora",
+        "fecha":1770336000000,
+        "total":4742
+    },
+    {
+        "venta_id":90,
+        "producto":"Mono palabra de honor estampado",
+        "precioUnitario":250000,
+        "talla":"XL",
+        "cantidad":5,
+        "vendedor":"Alexander Ramirez",
+        "fecha":1771804800000,
+        "total":3066
+    },
+    {
+        "venta_id":91,
+        "producto":"Mono largo asim\u00e9trico drapeado",
+        "precioUnitario":289000,
+        "talla":"XXL",
+        "cantidad":1,
+        "vendedor":"Alexander Ramirez",
+        "fecha":1771459200000,
+        "total":2773
+    },
+    {
+        "venta_id":92,
+        "producto":"Mono largo cuello drapeado cintur\u00f3n",
+        "precioUnitario":210000,
+        "talla":"XXL",
+        "cantidad":2,
+        "vendedor":"Johana Ferraro",
+        "fecha":1771459200000,
+        "total":1370
+    },
+    {
+        "venta_id":92,
+        "producto":"Vestido punto cuello perkins",
+        "precioUnitario":110000,
+        "talla":"S",
+        "cantidad":1,
+        "vendedor":"Jessica Mora",
+        "fecha":1769731200000,
+        "total":3537
+    },
+    {
+        "venta_id":93,
+        "producto":"Vestido corto evas\u00e9",
+        "precioUnitario":120000,
+        "talla":"XXXL",
+        "cantidad":3,
+        "vendedor":"Juan Jose Rios",
+        "fecha":1767571200000,
+        "total":4657
+    },
+    {
+        "venta_id":93,
+        "producto":"Vestido maxi volante",
+        "precioUnitario":199000,
+        "talla":"XL",
+        "cantidad":4,
+        "vendedor":"Johana Ferraro",
+        "fecha":1769212800000,
+        "total":4452
+    },
+    {
+        "venta_id":93,
+        "producto":"Vestido cuello barco fruncidos",
+        "precioUnitario":185000,
+        "talla":"L",
+        "cantidad":4,
+        "vendedor":"Johana Ferraro",
+        "fecha":1769990400000,
+        "total":4747
+    },
+    {
+        "venta_id":94,
+        "producto":"Mono largo cuello drapeado cintur\u00f3n",
+        "precioUnitario":210000,
+        "talla":"M",
+        "cantidad":2,
+        "vendedor":"David Mira",
+        "fecha":1768780800000,
+        "total":1113
+    },
+    {
+        "venta_id":95,
+        "producto":"Vestido maxi volante",
+        "precioUnitario":199000,
+        "talla":"L",
+        "cantidad":1,
+        "vendedor":"Alexander Ramirez",
+        "fecha":1771891200000,
+        "total":1508
+    },
+    {
+        "venta_id":96,
+        "producto":"Vestido maxi volante",
+        "precioUnitario":199000,
+        "talla":"M",
+        "cantidad":1,
+        "vendedor":"Laura Mora",
+        "fecha":1771545600000,
+        "total":1907
+    },
+    {
+        "venta_id":97,
+        "producto":"Mono largo cuello drapeado cintur\u00f3n",
+        "precioUnitario":210000,
+        "talla":"XXL",
+        "cantidad":4,
+        "vendedor":"Jessica Mora",
+        "fecha":1768089600000,
+        "total":1952
+    },
+    {
+        "venta_id":97,
+        "producto":"Mono largo asim\u00e9trico drapeado",
+        "precioUnitario":289000,
+        "talla":"XXL",
+        "cantidad":5,
+        "vendedor":"Laura Mora",
+        "fecha":1770249600000,
+        "total":1847
+    },
+    {
+        "venta_id":98,
+        "producto":"Mono palabra de honor estampado",
+        "precioUnitario":250000,
+        "talla":"XXXL",
+        "cantidad":3,
+        "vendedor":"Laura Mora",
+        "fecha":1768435200000,
+        "total":4512
+    },
+    {
+        "venta_id":99,
+        "producto":"Mono largo cuello drapeado cintur\u00f3n",
+        "precioUnitario":210000,
+        "talla":"XS",
+        "cantidad":5,
+        "vendedor":"Johana Ferraro",
+        "fecha":1771718400000,
+        "total":3924
+    },
+    {
+        "venta_id":99,
+        "producto":"Vestido maxi volante",
+        "precioUnitario":199000,
+        "talla":"XXXL",
+        "cantidad":3,
+        "vendedor":"Juan Jose Rios",
+        "fecha":1770595200000,
+        "total":1129
+    },
+    {
+        "venta_id":99,
+        "producto":"Mono largo combinado",
+        "precioUnitario":150000,
+        "talla":"XS",
+        "cantidad":2,
+        "vendedor":"Juan Jose Rios",
+        "fecha":1771027200000,
+        "total":3849
+    },
+    {
+        "venta_id":0,
+        "producto":"Mono largo cuello drapeado cintur\u00f3n",
+        "precioUnitario":210000,
+        "talla":"XXL",
+        "cantidad":2,
+        "vendedor":"Johana Ferraro",
+        "fecha":1768262400000,
+        "total":4941
+    },
+    {
+        "venta_id":0,
+        "producto":"Vestido cuello barco fruncidos",
+        "precioUnitario":185000,
+        "talla":"M",
+        "cantidad":3,
+        "vendedor":"Roger Mora",
+        "fecha":1768003200000,
+        "total":4503
+    }
+]

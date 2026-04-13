@@ -32,23 +32,53 @@ def generar_ventas(numeroVentas):
     fechaInicio=datetime(2026,1,2) 
     
     #generar las N ventas pedidas 
-    ventas=[]
-    for venta_id in range(numeroVentas):
-        productos_seleccionados = random.sample(productos, random.randint(1,3))
-        for producto in productos_seleccionados:
-            cantidad=random.randint(1,5)
-            fecha=fechaInicio+timedelta(days=random.randint(0,60))
-            vendedor = random.choice(vendedores)
-            ventas.append(
-            {
-                "venta_id":venta_id,
-                "producto":producto["nombre"],
-                "precioUnitario":producto["precio"],
-                "talla":random.choice(tallas),
-                "cantidad":cantidad,
-                "vendedor":vendedor["id"],
-                "fecha":fecha,
-                "total":cantidad*producto["precio"]
-            }
-        )
+    ventas = []
+    for _ in range(numeroVentas):
+        producto = random.choice(productos) 
+        cantidad = random.randint(1, 5)
+        fecha = fechaInicio + timedelta(days=random.randint(0, 60))
+        vendedor = random.choice(vendedores)
+
+        venta={
+        "producto": producto["nombre"],
+        "precioUnitario": producto["precio"],
+        "talla": random.choice(tallas),
+        "cantidad": cantidad,
+        "vendedor": vendedor["nombre"],
+        "fecha": fecha,
+        "total": cantidad * producto["precio"]
+    }
+    #inyectando errores de calidad en los datos 
+        probabilidad_error=random.random()
+    
+    #Rutina para espacios extras
+        if probabilidad_error<0.15:
+            venta["producto"]=venta["producto"]+" "
+        #mayusuculas     
+        elif probabilidad_error<0.30:
+            venta["vendedor"]=venta["vendedor"].upper()
+        #Formato de la talla  
+        elif probabilidad_error<0.40:
+            venta["talla"]="medio"
+       #Cantidades invalidas
+        elif probabilidad_error<0.50:
+            venta["cantidad"]=random.choice([-0,-1,None])
+        #inyectar nulos 
+        elif probabilidad_error<0.60:
+            venta["precioUnitario"]=None
+        #cambiar el formato de la fecha   
+        elif probabilidad_error<0.70: 
+            venta["fecha"]=fecha.strftime("%d/%m/%Y")
+        #total inconsistente
+        elif probabilidad_error<0.80:
+            venta["total"]=random.randint(1000,500000)
+        elif probabilidad_error<0.90:
+            venta["producto"]=venta["producto"].lower()
+            
+        ventas.append(venta)
+        
+        #inyectar duplicados 
+        if len(ventas)>=50: 
+            ventas.append(ventas[0].copy())
+            ventas.append(ventas[1].copy())
     return ventas

@@ -1,0 +1,118 @@
+ 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title> Reportes de analitica </title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-sRIl4kxILFvY47J16cr9ZwB07vP4J8+LH7qKQnuqkuIAvNWLzeN8tE5YBujZqJLB" crossorigin="anonymous">
+</head>
+<body>
+
+
+
+    <section class="container "> 
+        <section class="row">
+            <section class="col-12">
+                <h1> REPORTE DE DATOS ASOCIADOS A LAS VENTAS </h1>
+                <hr>
+                <p> 
+                    Utilizando PANDAS este es el reporte de ventas de la tienda chevignon de la central
+                </p>
+            </section>
+        </section>
+    </section>
+    
+    <section class="container "> 
+        <section class="row">
+            <section class="col-12">
+                <div class="card p-5 shadow border">
+                    
+                        <h3> Total vendido por cada vendedor</h3>
+                        <p>
+                            La grafica muestra el total vendido por cada vendedor, lo que permite identificar a los vendedores más exitosos 
+                            y aquellos que podrían necesitar apoyo adicional para mejorar sus ventas. Esta información es crucial para la toma de decisiones 
+                            estratégicas en la gestión de ventas y recursos humanos.</p>
+                            <table class="dataframe table table-striped table-hover table-bordered table-sm">
+  <thead>
+    <tr style="text-align: right;">
+      <th></th>
+      <th>vendedor</th>
+      <th>total</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>0</th>
+      <td>Johana Ferraro</td>
+      <td>6746514</td>
+    </tr>
+    <tr>
+      <th>1</th>
+      <td>Alexander Ramirez</td>
+      <td>5399828</td>
+    </tr>
+    <tr>
+      <th>2</th>
+      <td>David Mira</td>
+      <td>4417392</td>
+    </tr>
+    <tr>
+      <th>3</th>
+      <td>Roger Mora</td>
+      <td>3241000</td>
+    </tr>
+    <tr>
+      <th>4</th>
+      <td>Juan Jose Rios</td>
+      <td>3175576</td>
+    </tr>
+    <tr>
+      <th>5</th>
+      <td>Jessica Mora</td>
+      <td>2850000</td>
+    </tr>
+    <tr>
+      <th>6</th>
+      <td>JUAN JOSE RIOS</td>
+      <td>1650000</td>
+    </tr>
+    <tr>
+      <th>7</th>
+      <td>Laura Mora</td>
+      <td>1460000</td>
+    </tr>
+    <tr>
+      <th>8</th>
+      <td>ROGER MORA</td>
+      <td>970000</td>
+    </tr>
+    <tr>
+      <th>9</th>
+      <td>LAURA MORA</td>
+      <td>630000</td>
+    </tr>
+    <tr>
+      <th>10</th>
+      <td>JOHANA FERRARO</td>
+      <td>500000</td>
+    </tr>
+    <tr>
+      <th>11</th>
+      <td>JESSICA MORA</td>
+      <td>450000</td>
+    </tr>
+  </tbody>
+</table>
+                            <br>
+                            <img src="graficas/ventas_por_vendedor.png" alt="foto" class="img-fluid">
+                            <br>
+                            <img src="graficas/ventas_por_vendedor_porcentaje.png" alt="foto" class="img-fluid">
+                </div>
+            </section>
+        </section>
+    </section>
+        
+        
+</body>
+</html>
