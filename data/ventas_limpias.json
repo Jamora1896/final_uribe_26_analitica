@@ -1,0 +1,830 @@
+[
+    {
+        "producto":"Mono Largo Asim\u00e9trico Drapeado",
+        "precioUnitario":289000,
+        "talla":"M",
+        "cantidad":5,
+        "vendedor":"Johana Ferraro",
+        "fecha":"2026-02-11",
+        "total":1445000
+    },
+    {
+        "producto":"Vestido Asim\u00e9trico Fruncido",
+        "precioUnitario":170000,
+        "talla":"XS",
+        "cantidad":1,
+        "vendedor":"Juan Jose Rios",
+        "fecha":"2026-01-23",
+        "total":170000
+    },
+    {
+        "producto":"Mono Largo Cuello Drapeado Cintur\u00f3n",
+        "precioUnitario":210000,
+        "talla":"M",
+        "cantidad":2,
+        "vendedor":"Jessica Mora",
+        "fecha":"2026-02-02",
+        "total":420000
+    },
+    {
+        "producto":"Mono Palabra De Honor Estampado",
+        "precioUnitario":250000,
+        "talla":"M",
+        "cantidad":2,
+        "vendedor":"Johana Ferraro",
+        "fecha":"2026-02-27",
+        "total":500000
+    },
+    {
+        "producto":"Vestido Asim\u00e9trico Fruncido",
+        "precioUnitario":170000,
+        "talla":"M",
+        "cantidad":5,
+        "vendedor":"Alexander Ramirez",
+        "fecha":"2026-02-08",
+        "total":850000
+    },
+    {
+        "producto":"Mono Palabra De Honor Estampado",
+        "precioUnitario":250000,
+        "talla":"XXXL",
+        "cantidad":1,
+        "vendedor":"Juan Jose Rios",
+        "fecha":"2026-02-05",
+        "total":250000
+    },
+    {
+        "producto":"Mono Largo Asim\u00e9trico Drapeado",
+        "precioUnitario":289000,
+        "talla":"XS",
+        "cantidad":2,
+        "vendedor":"Juan Jose Rios",
+        "fecha":"2026-02-15",
+        "total":578000
+    },
+    {
+        "producto":"Mono Raya Diplom\u00e1tica Combinado",
+        "precioUnitario":350000,
+        "talla":"XL",
+        "cantidad":3,
+        "vendedor":"Johana Ferraro",
+        "fecha":"2026-02-03",
+        "total":1050000
+    },
+    {
+        "producto":"Vestido Punto Cuello Perkins",
+        "precioUnitario":110000,
+        "talla":"XS",
+        "cantidad":5,
+        "vendedor":"Alexander Ramirez",
+        "fecha":"2026-01-27",
+        "total":550000
+    },
+    {
+        "producto":"Mono Largo Cuello Drapeado Cintur\u00f3n",
+        "precioUnitario":210000,
+        "talla":"M",
+        "cantidad":3,
+        "vendedor":"Laura Mora",
+        "fecha":"2026-02-28",
+        "total":630000
+    },
+    {
+        "producto":"Mono Largo Combinado",
+        "precioUnitario":150000,
+        "talla":"M",
+        "cantidad":2,
+        "vendedor":"Johana Ferraro",
+        "fecha":"2026-02-09",
+        "total":300000
+    },
+    {
+        "producto":"Mono Largo Cuello Drapeado Cintur\u00f3n",
+        "precioUnitario":210000,
+        "talla":"M",
+        "cantidad":2,
+        "vendedor":"Roger Mora",
+        "fecha":"2026-02-24",
+        "total":420000
+    },
+    {
+        "producto":"Mono Largo Cuello Drapeado Cintur\u00f3n",
+        "precioUnitario":210000,
+        "talla":"XS",
+        "cantidad":5,
+        "vendedor":"Jessica Mora",
+        "fecha":"2026-02-09",
+        "total":1050000
+    },
+    {
+        "producto":"Vestido Corto Evas\u00e9",
+        "precioUnitario":120000,
+        "talla":"M",
+        "cantidad":2,
+        "vendedor":"David Mira",
+        "fecha":"2026-01-05",
+        "total":240000
+    },
+    {
+        "producto":"Vestido Asim\u00e9trico Fruncido",
+        "precioUnitario":170000,
+        "talla":"S",
+        "cantidad":4,
+        "vendedor":"Laura Mora",
+        "fecha":"2026-01-12",
+        "total":680000
+    },
+    {
+        "producto":"Mono Palabra De Honor Estampado",
+        "precioUnitario":250000,
+        "talla":"XXL",
+        "cantidad":1,
+        "vendedor":"David Mira",
+        "fecha":"2026-01-15",
+        "total":250000
+    },
+    {
+        "producto":"Mono Largo Combinado",
+        "precioUnitario":150000,
+        "talla":"L",
+        "cantidad":3,
+        "vendedor":"Johana Ferraro",
+        "fecha":"2026-02-03",
+        "total":450000
+    },
+    {
+        "producto":"Vestido Cuello Barco Fruncidos",
+        "precioUnitario":185000,
+        "talla":"XS",
+        "cantidad":1,
+        "vendedor":"Johana Ferraro",
+        "fecha":"2026-02-03",
+        "total":185000
+    },
+    {
+        "producto":"Vestido Maxi Volante",
+        "precioUnitario":199000,
+        "talla":"XXXL",
+        "cantidad":1,
+        "vendedor":"Jessica Mora",
+        "fecha":"2026-01-22",
+        "total":199000
+    },
+    {
+        "producto":"Mono Largo Combinado",
+        "precioUnitario":150000,
+        "talla":"M",
+        "cantidad":4,
+        "vendedor":"Roger Mora",
+        "fecha":"2026-02-22",
+        "total":600000
+    },
+    {
+        "producto":"Mono Raya Diplom\u00e1tica Combinado",
+        "precioUnitario":350000,
+        "talla":"L",
+        "cantidad":2,
+        "vendedor":"Roger Mora",
+        "fecha":"2026-02-09",
+        "total":700000
+    },
+    {
+        "producto":"Mono Palabra De Honor Estampado",
+        "precioUnitario":250000,
+        "talla":"XXXL",
+        "cantidad":1,
+        "vendedor":"Juan Jose Rios",
+        "fecha":"2026-01-22",
+        "total":250000
+    },
+    {
+        "producto":"Mono Largo Cuello Drapeado Cintur\u00f3n",
+        "precioUnitario":210000,
+        "talla":"XXL",
+        "cantidad":1,
+        "vendedor":"Juan Jose Rios",
+        "fecha":"2026-02-18",
+        "total":210000
+    },
+    {
+        "producto":"Mono Largo Asim\u00e9trico Drapeado",
+        "precioUnitario":289000,
+        "talla":"XL",
+        "cantidad":3,
+        "vendedor":"Jessica Mora",
+        "fecha":"2026-02-07",
+        "total":867000
+    },
+    {
+        "producto":"Mono Raya Diplom\u00e1tica Combinado",
+        "precioUnitario":350000,
+        "talla":"L",
+        "cantidad":1,
+        "vendedor":"Jessica Mora",
+        "fecha":"2026-01-21",
+        "total":350000
+    },
+    {
+        "producto":"Vestido Punto Cuello Perkins",
+        "precioUnitario":110000,
+        "talla":"XXL",
+        "cantidad":3,
+        "vendedor":"Alexander Ramirez",
+        "fecha":"2026-02-25",
+        "total":330000
+    },
+    {
+        "producto":"Vestido Punto Cuello Perkins",
+        "precioUnitario":110000,
+        "talla":"S",
+        "cantidad":1,
+        "vendedor":"Juan Jose Rios",
+        "fecha":"2026-03-03",
+        "total":110000
+    },
+    {
+        "producto":"Vestido Corto Evas\u00e9",
+        "precioUnitario":120000,
+        "talla":"XXL",
+        "cantidad":1,
+        "vendedor":"Alexander Ramirez",
+        "fecha":"2026-02-12",
+        "total":120000
+    },
+    {
+        "producto":"Vestido Asim\u00e9trico Fruncido",
+        "precioUnitario":170000,
+        "talla":"M",
+        "cantidad":3,
+        "vendedor":"Roger Mora",
+        "fecha":"2026-01-07",
+        "total":510000
+    },
+    {
+        "producto":"Vestido Corto Evas\u00e9",
+        "precioUnitario":120000,
+        "talla":"S",
+        "cantidad":3,
+        "vendedor":"Alexander Ramirez",
+        "fecha":"2026-01-25",
+        "total":360000
+    },
+    {
+        "producto":"Mono Largo Asim\u00e9trico Drapeado",
+        "precioUnitario":289000,
+        "talla":"XXXL",
+        "cantidad":1,
+        "vendedor":"Jessica Mora",
+        "fecha":"2026-02-09",
+        "total":289000
+    },
+    {
+        "producto":"Mono Largo Combinado",
+        "precioUnitario":150000,
+        "talla":"S",
+        "cantidad":4,
+        "vendedor":"Roger Mora",
+        "fecha":"2026-01-14",
+        "total":600000
+    },
+    {
+        "producto":"Mono Largo Cuello Drapeado Cintur\u00f3n",
+        "precioUnitario":210000,
+        "talla":"XXL",
+        "cantidad":1,
+        "vendedor":"Johana Ferraro",
+        "fecha":"2026-01-22",
+        "total":210000
+    },
+    {
+        "producto":"Mono Largo Asim\u00e9trico Drapeado",
+        "precioUnitario":289000,
+        "talla":"XL",
+        "cantidad":3,
+        "vendedor":"Juan Jose Rios",
+        "fecha":"2026-02-04",
+        "total":867000
+    },
+    {
+        "producto":"Vestido Corto Evas\u00e9",
+        "precioUnitario":120000,
+        "talla":"M",
+        "cantidad":2,
+        "vendedor":"Laura Mora",
+        "fecha":"2026-02-03",
+        "total":240000
+    },
+    {
+        "producto":"Vestido Asim\u00e9trico Fruncido",
+        "precioUnitario":170000,
+        "talla":"M",
+        "cantidad":3,
+        "vendedor":"Johana Ferraro",
+        "fecha":"2026-02-25",
+        "total":510000
+    },
+    {
+        "producto":"Vestido Maxi Volante",
+        "precioUnitario":199000,
+        "talla":"M",
+        "cantidad":5,
+        "vendedor":"Roger Mora",
+        "fecha":"2026-01-11",
+        "total":995000
+    },
+    {
+        "producto":"Vestido Asim\u00e9trico Fruncido",
+        "precioUnitario":170000,
+        "talla":"S",
+        "cantidad":1,
+        "vendedor":"Johana Ferraro",
+        "fecha":"2026-02-12",
+        "total":170000
+    },
+    {
+        "producto":"Vestido Punto Cuello Perkins",
+        "precioUnitario":110000,
+        "talla":"L",
+        "cantidad":3,
+        "vendedor":"Alexander Ramirez",
+        "fecha":"2026-02-11",
+        "total":330000
+    },
+    {
+        "producto":"Mono Largo Cuello Drapeado Cintur\u00f3n",
+        "precioUnitario":210000,
+        "talla":"XXXL",
+        "cantidad":5,
+        "vendedor":"David Mira",
+        "fecha":"2026-02-09",
+        "total":1050000
+    },
+    {
+        "producto":"Mono Raya Diplom\u00e1tica Combinado",
+        "precioUnitario":350000,
+        "talla":"L",
+        "cantidad":4,
+        "vendedor":"Johana Ferraro",
+        "fecha":"2026-02-27",
+        "total":1400000
+    },
+    {
+        "producto":"Vestido Corto Evas\u00e9",
+        "precioUnitario":120000,
+        "talla":"M",
+        "cantidad":4,
+        "vendedor":"David Mira",
+        "fecha":"2026-01-05",
+        "total":480000
+    },
+    {
+        "producto":"Vestido Maxi Volante",
+        "precioUnitario":199000,
+        "talla":"M",
+        "cantidad":3,
+        "vendedor":"Jessica Mora",
+        "fecha":"2026-02-21",
+        "total":597000
+    },
+    {
+        "producto":"Mono Largo Combinado",
+        "precioUnitario":150000,
+        "talla":"M",
+        "cantidad":2,
+        "vendedor":"Juan Jose Rios",
+        "fecha":"2026-02-04",
+        "total":300000
+    },
+    {
+        "producto":"Vestido Punto Cuello Perkins",
+        "precioUnitario":110000,
+        "talla":"M",
+        "cantidad":1,
+        "vendedor":"Laura Mora",
+        "fecha":"2026-01-11",
+        "total":110000
+    },
+    {
+        "producto":"Mono Palabra De Honor Estampado",
+        "precioUnitario":250000,
+        "talla":"S",
+        "cantidad":3,
+        "vendedor":"David Mira",
+        "fecha":"2026-01-26",
+        "total":750000
+    },
+    {
+        "producto":"Mono Raya Diplom\u00e1tica Combinado",
+        "precioUnitario":350000,
+        "talla":"L",
+        "cantidad":1,
+        "vendedor":"Jessica Mora",
+        "fecha":"2026-02-06",
+        "total":350000
+    },
+    {
+        "producto":"Vestido Punto Cuello Perkins",
+        "precioUnitario":110000,
+        "talla":"XS",
+        "cantidad":1,
+        "vendedor":"Jessica Mora",
+        "fecha":"2026-01-04",
+        "total":110000
+    },
+    {
+        "producto":"Mono Palabra De Honor Estampado",
+        "precioUnitario":250000,
+        "talla":"L",
+        "cantidad":4,
+        "vendedor":"Laura Mora",
+        "fecha":"2026-01-03",
+        "total":1000000
+    },
+    {
+        "producto":"Mono Palabra De Honor Estampado",
+        "precioUnitario":250000,
+        "talla":"XXL",
+        "cantidad":3,
+        "vendedor":"Alexander Ramirez",
+        "fecha":"2026-02-26",
+        "total":750000
+    },
+    {
+        "producto":"Vestido Asim\u00e9trico Fruncido",
+        "precioUnitario":170000,
+        "talla":"XL",
+        "cantidad":4,
+        "vendedor":"Laura Mora",
+        "fecha":"2026-02-08",
+        "total":680000
+    },
+    {
+        "producto":"Vestido Cuello Barco Fruncidos",
+        "precioUnitario":185000,
+        "talla":"M",
+        "cantidad":1,
+        "vendedor":"Johana Ferraro",
+        "fecha":"2026-01-13",
+        "total":185000
+    },
+    {
+        "producto":"Mono Palabra De Honor Estampado",
+        "precioUnitario":250000,
+        "talla":"XXXL",
+        "cantidad":5,
+        "vendedor":"Jessica Mora",
+        "fecha":"2026-02-01",
+        "total":1250000
+    },
+    {
+        "producto":"Vestido Asim\u00e9trico Fruncido",
+        "precioUnitario":170000,
+        "talla":"M",
+        "cantidad":4,
+        "vendedor":"Johana Ferraro",
+        "fecha":"2026-01-05",
+        "total":680000
+    },
+    {
+        "producto":"Vestido Asim\u00e9trico Fruncido",
+        "precioUnitario":170000,
+        "talla":"M",
+        "cantidad":1,
+        "vendedor":"Alexander Ramirez",
+        "fecha":"2026-01-15",
+        "total":170000
+    },
+    {
+        "producto":"Mono Raya Diplom\u00e1tica Combinado",
+        "precioUnitario":350000,
+        "talla":"L",
+        "cantidad":4,
+        "vendedor":"Juan Jose Rios",
+        "fecha":"2026-01-30",
+        "total":1400000
+    },
+    {
+        "producto":"Vestido Punto Cuello Perkins",
+        "precioUnitario":110000,
+        "talla":"XXXL",
+        "cantidad":3,
+        "vendedor":"Jessica Mora",
+        "fecha":"2026-01-19",
+        "total":330000
+    },
+    {
+        "producto":"Vestido Punto Cuello Perkins",
+        "precioUnitario":110000,
+        "talla":"L",
+        "cantidad":4,
+        "vendedor":"Roger Mora",
+        "fecha":"2026-01-04",
+        "total":440000
+    },
+    {
+        "producto":"Vestido Punto Cuello Perkins",
+        "precioUnitario":110000,
+        "talla":"XXXL",
+        "cantidad":3,
+        "vendedor":"Alexander Ramirez",
+        "fecha":"2026-01-24",
+        "total":330000
+    },
+    {
+        "producto":"Mono Largo Asim\u00e9trico Drapeado",
+        "precioUnitario":289000,
+        "talla":"M",
+        "cantidad":3,
+        "vendedor":"Laura Mora",
+        "fecha":"2026-01-19",
+        "total":867000
+    },
+    {
+        "producto":"Mono Palabra De Honor Estampado",
+        "precioUnitario":250000,
+        "talla":"XXXL",
+        "cantidad":1,
+        "vendedor":"Alexander Ramirez",
+        "fecha":"2026-02-07",
+        "total":250000
+    },
+    {
+        "producto":"Mono Largo Asim\u00e9trico Drapeado",
+        "precioUnitario":289000,
+        "talla":"M",
+        "cantidad":2,
+        "vendedor":"Roger Mora",
+        "fecha":"2026-02-20",
+        "total":578000
+    },
+    {
+        "producto":"Vestido Asim\u00e9trico Fruncido",
+        "precioUnitario":170000,
+        "talla":"M",
+        "cantidad":1,
+        "vendedor":"Johana Ferraro",
+        "fecha":"2026-01-26",
+        "total":170000
+    },
+    {
+        "producto":"Vestido Punto Cuello Perkins",
+        "precioUnitario":110000,
+        "talla":"XL",
+        "cantidad":3,
+        "vendedor":"Alexander Ramirez",
+        "fecha":"2026-01-15",
+        "total":330000
+    },
+    {
+        "producto":"Mono Raya Diplom\u00e1tica Combinado",
+        "precioUnitario":350000,
+        "talla":"XXL",
+        "cantidad":3,
+        "vendedor":"Johana Ferraro",
+        "fecha":"2026-01-15",
+        "total":1050000
+    },
+    {
+        "producto":"Vestido Punto Cuello Perkins",
+        "precioUnitario":110000,
+        "talla":"XL",
+        "cantidad":1,
+        "vendedor":"Alexander Ramirez",
+        "fecha":"2026-02-06",
+        "total":110000
+    },
+    {
+        "producto":"Vestido Asim\u00e9trico Fruncido",
+        "precioUnitario":170000,
+        "talla":"L",
+        "cantidad":1,
+        "vendedor":"Roger Mora",
+        "fecha":"2026-03-01",
+        "total":170000
+    },
+    {
+        "producto":"Mono Largo Combinado",
+        "precioUnitario":150000,
+        "talla":"M",
+        "cantidad":5,
+        "vendedor":"Alexander Ramirez",
+        "fecha":"2026-01-16",
+        "total":750000
+    },
+    {
+        "producto":"Mono Largo Asim\u00e9trico Drapeado",
+        "precioUnitario":289000,
+        "talla":"XS",
+        "cantidad":2,
+        "vendedor":"Johana Ferraro",
+        "fecha":"2026-02-07",
+        "total":578000
+    },
+    {
+        "producto":"Vestido Cuello Barco Fruncidos",
+        "precioUnitario":185000,
+        "talla":"S",
+        "cantidad":1,
+        "vendedor":"Roger Mora",
+        "fecha":"2026-02-05",
+        "total":185000
+    },
+    {
+        "producto":"Mono Largo Combinado",
+        "precioUnitario":150000,
+        "talla":"M",
+        "cantidad":1,
+        "vendedor":"Roger Mora",
+        "fecha":"2026-02-01",
+        "total":150000
+    },
+    {
+        "producto":"Vestido Maxi Volante",
+        "precioUnitario":199000,
+        "talla":"XXXL",
+        "cantidad":5,
+        "vendedor":"Laura Mora",
+        "fecha":"2026-01-22",
+        "total":995000
+    },
+    {
+        "producto":"Vestido Punto Cuello Perkins",
+        "precioUnitario":110000,
+        "talla":"XS",
+        "cantidad":5,
+        "vendedor":"Jessica Mora",
+        "fecha":"2026-02-04",
+        "total":550000
+    },
+    {
+        "producto":"Vestido Cuello Barco Fruncidos",
+        "precioUnitario":185000,
+        "talla":"L",
+        "cantidad":4,
+        "vendedor":"Roger Mora",
+        "fecha":"2026-02-20",
+        "total":740000
+    },
+    {
+        "producto":"Vestido Asim\u00e9trico Fruncido",
+        "precioUnitario":170000,
+        "talla":"XXXL",
+        "cantidad":5,
+        "vendedor":"Juan Jose Rios",
+        "fecha":"2026-01-24",
+        "total":850000
+    },
+    {
+        "producto":"Mono Raya Diplom\u00e1tica Combinado",
+        "precioUnitario":350000,
+        "talla":"M",
+        "cantidad":4,
+        "vendedor":"Johana Ferraro",
+        "fecha":"2026-02-18",
+        "total":1400000
+    },
+    {
+        "producto":"Vestido Asim\u00e9trico Fruncido",
+        "precioUnitario":170000,
+        "talla":"XL",
+        "cantidad":2,
+        "vendedor":"Jessica Mora",
+        "fecha":"2026-02-02",
+        "total":340000
+    },
+    {
+        "producto":"Mono Largo Combinado",
+        "precioUnitario":150000,
+        "talla":"XL",
+        "cantidad":4,
+        "vendedor":"Johana Ferraro",
+        "fecha":"2026-01-09",
+        "total":600000
+    },
+    {
+        "producto":"Vestido Asim\u00e9trico Fruncido",
+        "precioUnitario":170000,
+        "talla":"L",
+        "cantidad":3,
+        "vendedor":"Juan Jose Rios",
+        "fecha":"2026-02-12",
+        "total":510000
+    },
+    {
+        "producto":"Vestido Corto Evas\u00e9",
+        "precioUnitario":120000,
+        "talla":"XXXL",
+        "cantidad":5,
+        "vendedor":"Laura Mora",
+        "fecha":"2026-01-26",
+        "total":600000
+    },
+    {
+        "producto":"Vestido Maxi Volante",
+        "precioUnitario":199000,
+        "talla":"M",
+        "cantidad":5,
+        "vendedor":"Juan Jose Rios",
+        "fecha":"2026-01-26",
+        "total":995000
+    },
+    {
+        "producto":"Vestido Punto Cuello Perkins",
+        "precioUnitario":110000,
+        "talla":"L",
+        "cantidad":1,
+        "vendedor":"David Mira",
+        "fecha":"2026-01-11",
+        "total":110000
+    },
+    {
+        "producto":"Vestido Punto Cuello Perkins",
+        "precioUnitario":110000,
+        "talla":"L",
+        "cantidad":2,
+        "vendedor":"Johana Ferraro",
+        "fecha":"2026-02-02",
+        "total":220000
+    },
+    {
+        "producto":"Mono Raya Diplom\u00e1tica Combinado",
+        "precioUnitario":350000,
+        "talla":"S",
+        "cantidad":3,
+        "vendedor":"David Mira",
+        "fecha":"2026-02-11",
+        "total":1050000
+    },
+    {
+        "producto":"Vestido Cuello Barco Fruncidos",
+        "precioUnitario":185000,
+        "talla":"XL",
+        "cantidad":2,
+        "vendedor":"Jessica Mora",
+        "fecha":"2026-02-05",
+        "total":370000
+    },
+    {
+        "producto":"Mono Largo Asim\u00e9trico Drapeado",
+        "precioUnitario":289000,
+        "talla":"M",
+        "cantidad":1,
+        "vendedor":"Johana Ferraro",
+        "fecha":"2026-01-27",
+        "total":289000
+    },
+    {
+        "producto":"Vestido Punto Cuello Perkins",
+        "precioUnitario":110000,
+        "talla":"XXL",
+        "cantidad":5,
+        "vendedor":"Jessica Mora",
+        "fecha":"2026-02-21",
+        "total":550000
+    },
+    {
+        "producto":"Vestido Maxi Volante",
+        "precioUnitario":199000,
+        "talla":"XL",
+        "cantidad":4,
+        "vendedor":"Laura Mora",
+        "fecha":"2026-01-06",
+        "total":796000
+    },
+    {
+        "producto":"Vestido Corto Evas\u00e9",
+        "precioUnitario":120000,
+        "talla":"L",
+        "cantidad":5,
+        "vendedor":"Roger Mora",
+        "fecha":"2026-02-26",
+        "total":600000
+    },
+    {
+        "producto":"Vestido Corto Evas\u00e9",
+        "precioUnitario":120000,
+        "talla":"L",
+        "cantidad":3,
+        "vendedor":"Jessica Mora",
+        "fecha":"2026-02-06",
+        "total":360000
+    },
+    {
+        "producto":"Vestido Asim\u00e9trico Fruncido",
+        "precioUnitario":170000,
+        "talla":"XS",
+        "cantidad":1,
+        "vendedor":"Johana Ferraro",
+        "fecha":"2026-02-05",
+        "total":170000
+    },
+    {
+        "producto":"Mono Largo Combinado",
+        "precioUnitario":150000,
+        "talla":"M",
+        "cantidad":1,
+        "vendedor":"Roger Mora",
+        "fecha":"2026-01-31",
+        "total":150000
+    }
+]
