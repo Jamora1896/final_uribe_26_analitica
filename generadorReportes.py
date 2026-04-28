@@ -5,7 +5,7 @@ import matplotlib.pyplot as plt
 import pandas as pd
 
 
-from transformaciones import(
+'''from transformaciones import(
     
     datosOrdenados,
     ventas_mayores_500,
@@ -39,7 +39,7 @@ def dataFrame_convertir_html(dataFrame):
     
 #Primera Grafica (graficar comportamiento de ventas_agrupadas)
 plt.figure(figsize=(20,6))
-ventas_agrupadas.plot(kind="bar", color="#251B75") 
+ventas_agrupadas.plot(kind="bar", color="#A09C9C") 
 plt.title('Total de ventas por vendedor')       
 plt.xlabel('Vendedor')
 plt.ylabel('Total de Ventas en pesos')
@@ -50,7 +50,7 @@ plt.close()
 
 #Segunda Grafica (graficar comportamiento de ventas_agrupadas_tallas)
 plt.figure(figsize=(10,5))
-ventas_agrupadas_tallas.plot(kind="bar", color="#E923AD")
+ventas_agrupadas_tallas.plot(kind="bar", color="#0C0C0C")
 plt.title('Total de ventas por talla') 
 plt.xlabel('talla')
 plt.ylabel('Total de Vendido en pesos ')
@@ -68,7 +68,7 @@ ventas_agrupadas.plot(
     y="total",
     autopct='%1.1f%%', 
     startangle=90, 
-    colors=["#E923AD", "#251B75", "#F2C94C", "#27AE60", "#2F80ED", "#9B51E0", "#EB5757", "#56CCF2", "#6FCF97", "#BDBDBD"])
+    colors=["#989BE4", "#E42828", "#ECB40B", "#27AE60", "#2F80ED", "#9B51E0", "#EB5757", "#56CCF2", "#6FCF97", "#BDBDBD"])
 plt.title('Participación porcentual de cada vendedor en las ventas totales')
 plt.savefig(os.path.join(CARPETA_GRAFICAS, 'ventas_por_vendedor_porcentaje.png'))
 plt.close() 
@@ -129,4 +129,58 @@ documento_html = f"""
  # RUTINA PARA ALMACENAR EL HTML GENERADO EN LA RAIZ DE NUESTRO PROYECTO 
 RUTA_REPORTE = os.path.join(CARPETA_REPORTES, "reporte_analitica.html")
 with open(RUTA_REPORTE, "w", encoding="utf-8") as archivo:
-    archivo.write(documento_html)                              
+    archivo.write(documento_html)  '''
+    
+    
+
+def generar_graficas():
+    
+    # Crear carpeta de reportes
+    CARPETA_GRAFICAS = "reportes/graficas"
+    os.makedirs(CARPETA_GRAFICAS, exist_ok=True)
+
+    # Leer datos limpios
+    df = pd.read_csv("data/ventas_limpias.csv")
+
+    # Asegurar tipos correctos
+    df["total"] = pd.to_numeric(df["total"], errors="coerce")
+    df["fecha"] = pd.to_datetime(df["fecha"])
+
+    # Ventas por vendedor
+    ventas_por_vendedor = df.groupby("vendedor")["total"].sum()
+
+    # Ventas por talla
+    ventas_por_talla = df.groupby("talla")["total"].sum()
+
+    # Ventas por mes
+    df["mes"] = df["fecha"].dt.month
+    ventas_por_mes = df.groupby("mes")["total"].sum()
+
+    # GRÁFICA 1
+    plt.figure(figsize=(12,5))
+    ventas_por_vendedor.plot(kind="bar", color="#090909")
+    plt.title("Total de ventas por vendedor")
+    plt.xticks(rotation=45)
+    plt.savefig(os.path.join(CARPETA_GRAFICAS, "ventas_por_vendedor.png"))
+    plt.close()
+
+    # GRÁFICA 2
+    plt.figure(figsize=(8,4))
+    ventas_por_talla.plot(kind="bar", color="#9A9797")
+    plt.title("Total de ventas por talla")
+    plt.savefig(os.path.join(CARPETA_GRAFICAS, "ventas_por_talla.png"))
+    plt.close()
+
+    # GRÁFICA 3
+    plt.figure(figsize=(8,4))
+    ventas_por_mes.plot(kind="line", marker="o", color="#034EFF")
+    plt.title("Ventas por mes")
+    plt.savefig(os.path.join(CARPETA_GRAFICAS, "ventas_por_mes.png"))
+    plt.close()
+
+    # GRÁFICA 4
+    plt.figure(figsize=(8,8))
+    ventas_por_vendedor.plot(kind="pie", autopct='%1.1f%%', startangle=90, colors=["#090909", "#9A9797", "#034EFF"])
+    plt.title("Participación de ventas por vendedor")
+    plt.savefig(os.path.join(CARPETA_GRAFICAS, "ventas_por_vendedor_pie.png"))
+    plt.close()

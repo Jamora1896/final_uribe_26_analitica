@@ -1,95 +1,82 @@
 import pandas as pd
-from data.simuladorVentas import generar_ventas
-from data.simuladorEmpleados import leer_empleados
+from data.simuladorVentas import generar_ventas, inyectar_errores_y_exportar, limpiar_ventas
+from data.simuladorEmpleados import leer_empleados, inyectar_errores_en_empleados, limpiar_datos_empleados
 from utils.generarCSV import generar_archivo_csv
 from utils.generarJSON import generar_archivo_json
-
-#print(generar_ventas(10))
-#empleados = leer_empleados()
-#print(empleados)
-
-lista = generar_ventas(10)
-datosOrdenados= pd.DataFrame(lista)
-
-#Generando un dataset en formato CSV 
-#generar_archivo_csv(lista, "data/ventas_sucias.csv")
-
-#Generando un dataset en formato JSON
-#generar_archivo_json(lista, "data/json_ventas.json")
-
-#print(datosOrdenados)
-
-#pasos para analizar los datos:
-#1identificar, insoeccionar, asociar la informacion base de los datos:
-#print(datosOrdenados.head(8))
-#print(datosOrdenados.tail(3))
-#print(datosOrdenados.shape)
-#print(datosOrdenados.columns)
-#print(datosOrdenados.dtypes)
-#print(datosOrdenados.info())
-#print(datosOrdenados.describe())
-
-#2limpiar,evaluar calidad de los datos, eliminar duplicados, eliminar nulos, corregir formatos, corregir errores de tipeo
-#Que se limpia?
-#A nombre de las columnas
-
-#B textos:
-#espacios
-#mayusculas o minisculas 
-#formatos inconsistentes
-
-# VALORES NULOS
-
-# VALORES DUPLICADOS
-
-# VERIFICAR TIPOS DE DATOS
-
-# SE VERIFICAN LAS REGLAS DE NEGOCIO 
-
-#tarea CONVERTIR ESTA RUTINA A UNA FUNCION GENERICA, funcion aparte de la rutina de limipeza se debe crear 
-
-dataFrameCopia = datosOrdenados.copy()
-dataFrameCopia.columns = dataFrameCopia.columns.str.strip()
-columnas_texto=['producto','talla','vendedor']
-for columna in columnas_texto:
-    dataFrameCopia[columna] = dataFrameCopia[columna].astype(str).str.strip()
-
-dataFrameCopia['producto'] = dataFrameCopia['producto'].str.title()
-dataFrameCopia['vendedor'] = dataFrameCopia['vendedor'].str.title()
-dataFrameCopia['talla'] = dataFrameCopia['talla'].str.upper()
-
-dataFrameCopia.replace(['',' ','nan', 'NaN', 'None'], pd.NA, inplace=True)
-
-dataFrameCopia['precioUnitario']=pd.to_numeric(dataFrameCopia['precioUnitario'], errors='coerce')
-
-dataFrameCopia['cantidad']=pd.to_numeric(dataFrameCopia['cantidad'], errors='coerce')
-dataFrameCopia['total']=pd.to_numeric(dataFrameCopia['total'], errors='coerce')
-
-dataFrameCopia['fecha']=pd.to_datetime(dataFrameCopia['fecha'], errors='coerce', dayfirst=False)
-
-dataFrameCopia=dataFrameCopia.drop_duplicates()
-
-dataFrameCopia=dataFrameCopia.dropna(subset=['producto','precioUnitario','cantidad','total','fecha'])
+from utils.limpieza_data import limpiar_archivos_generados, limpiar_graficas
+from generadorReportes import generar_graficas
 
 
-# RUTINA PARA LIMPIAR SEGUN LA REGLA DE NEGOCIO: 
 
-#VALIDACION DE CANTIDAD 
-dataFrameCopia=dataFrameCopia[dataFrameCopia['cantidad']>0]
+if __name__ == "__main__":
 
-#VALIDACION DE PRECIO UNITARIO
-dataFrameCopia=dataFrameCopia[dataFrameCopia['precioUnitario']>0]
+    import os
+    os.makedirs("data", exist_ok=True)
 
-#VALIDACION DE TOTAL
-dataFrameCopia=dataFrameCopia[dataFrameCopia['total']>5000]
+    print("🚀 INICIANDO PROCESO...\n")
 
-#VALIDACION TALLA VALIDA 
-tallasValidas=["XS","S","M","L","XL","XXL","XXXL"]
-dataFrameCopia=dataFrameCopia[dataFrameCopia['talla'].isin(tallasValidas)]
+   
+    # LIMPIEZA INICIAL
+    print("Limpiando archivos anteriores...")
+    limpiar_archivos_generados()
+    limpiar_graficas("reportes/graficas")
+    print("Limpieza completa\n")
 
-#VALIDACION RECALCULO DEL TOTAL
-dataFrameCopia['total']=dataFrameCopia['precioUnitario']*dataFrameCopia['cantidad']
+    #PROCESO VENTAS
+   
+    print("Procesando ventas...")
 
-print(datosOrdenados)
-print("-----------------------------")
-print(dataFrameCopia)
+    ventas = generar_ventas(100)
+    ventas_sucias = inyectar_errores_y_exportar(ventas)
+    ventas_limpias = limpiar_ventas(ventas_sucias)
+
+    generar_archivo_csv(ventas_sucias, "data/ventas_sucias.csv")
+    generar_archivo_csv(ventas_limpias, "data/ventas_limpias.csv")
+
+    generar_archivo_json(ventas_sucias, "data/ventas_sucias.json")
+    generar_archivo_json(ventas_limpias, "data/ventas_limpias.json")
+
+    print(f"Ventas Original: {len(ventas)}")
+    print(f"Ventas Sucias: {len(ventas_sucias)}")
+    print(f"Ventas Limpias: {len(ventas_limpias)}\n")
+
+    
+    # PROCESO EMPLEADOS
+    
+    print("👥 Procesando empleados...")
+
+    empleados = leer_empleados()
+    empleados_sucios = inyectar_errores_en_empleados(empleados)
+    empleados_limpios = limpiar_datos_empleados(empleados_sucios)
+
+    generar_archivo_csv(empleados_sucios, "data/empleados_sucios.csv")
+    generar_archivo_csv(empleados_limpios, "data/empleados_limpios.csv")
+
+    generar_archivo_json(empleados_sucios, "data/empleados_sucios.json")
+    generar_archivo_json(empleados_limpios, "data/empleados_limpios.json")
+
+    print(f"Empleados Original: {len(empleados)}")
+    print(f"Empleados Sucios: {len(empleados_sucios)}")
+    print(f"Empleados Limpios: {len(empleados_limpios)}\n")
+
+    # GENERAR GRÁFICAS
+    
+    print("📊 Generando gráficas...")
+    generar_graficas()
+    print("✅ Gráficas generadas")
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

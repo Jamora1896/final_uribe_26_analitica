@@ -1,7 +1,9 @@
 
 import random
 from datetime import datetime,timedelta
-from data.simuladorEmpleados import leer_empleados
+from data.simuladorEmpleados import  leer_empleados
+import csv
+
 
 # Construir una funcion generadora de N ventas, que permita crear MOCKS o datos semillas para la rutina de analisis
 def generar_ventas(numeroVentas):
@@ -21,7 +23,6 @@ def generar_ventas(numeroVentas):
         {"nombre":"Vestido asimétrico fruncido","precio":170000,"descuento":True},
     ]
     #simular lista de tallas
-    
     tallas=[ "XS","S","M","L","XL","XXL","XXXL"]
     
     #simular vendedor asociado 
@@ -48,37 +49,107 @@ def generar_ventas(numeroVentas):
         "fecha": fecha,
         "total": cantidad * producto["precio"]
     }
-    #inyectando errores de calidad en los datos 
-        probabilidad_error=random.random()
-    
-    #Rutina para espacios extras
-        if probabilidad_error<0.15:
-            venta["producto"]=venta["producto"]+" "
-        #mayusuculas     
-        elif probabilidad_error<0.30:
-            venta["vendedor"]=venta["vendedor"].upper()
-        #Formato de la talla  
-        elif probabilidad_error<0.40:
-            venta["talla"]="medio"
-       #Cantidades invalidas
-        elif probabilidad_error<0.50:
-            venta["cantidad"]=random.choice([-0,-1,None])
-        #inyectar nulos 
-        elif probabilidad_error<0.60:
-            venta["precioUnitario"]=None
-        #cambiar el formato de la fecha   
-        elif probabilidad_error<0.70: 
-            venta["fecha"]=fecha.strftime("%d/%m/%Y")
-        #total inconsistente
-        elif probabilidad_error<0.80:
-            venta["total"]=random.randint(1000,500000)
-        elif probabilidad_error<0.90:
-            venta["producto"]=venta["producto"].lower()
-            
         ventas.append(venta)
-        
-        #inyectar duplicados 
-        if len(ventas)>=50: 
-            ventas.append(ventas[0].copy())
-            ventas.append(ventas[1].copy())
     return ventas
+
+def inyectar_errores_y_exportar(ventas):
+    
+    ventas_con_errores = []
+
+    for venta in ventas:
+        venta = venta.copy()  # evitar modificar el original
+        probabilidad_error = random.random()
+
+        # Espacios extras
+        if probabilidad_error < 0.15:
+            venta["producto"] = venta["producto"] + " "
+
+        # Mayúsculas en vendedor
+        elif probabilidad_error < 0.30:
+            venta["vendedor"] = venta["vendedor"].upper()
+
+        # Talla inválida
+        elif probabilidad_error < 0.40:
+            venta["talla"] = "medio"
+
+        # Cantidades inválidas
+        elif probabilidad_error < 0.50:
+            venta["cantidad"] = random.choice([0, -1, None])
+
+        # Precio nulo
+        elif probabilidad_error < 0.60:
+            venta["precioUnitario"] = None
+
+        # Formato de fecha incorrecto
+        elif probabilidad_error < 0.70:
+            if isinstance(venta["fecha"], datetime):
+                venta["fecha"] = venta["fecha"].strftime("%d/%m/%Y")
+
+        # Total inconsistente
+        elif probabilidad_error < 0.80:
+            venta["total"] = random.randint(1000, 500000)
+
+        # Producto en minúsculas
+        elif probabilidad_error < 0.90:
+            venta["producto"] = venta["producto"].lower()
+
+        ventas_con_errores.append(venta)
+
+    # Inyectar duplicados
+    if len(ventas_con_errores) >= 2:
+        ventas_con_errores.append(ventas_con_errores[0].copy())
+        ventas_con_errores.append(ventas_con_errores[1].copy())
+
+    return ventas_con_errores
+
+def limpiar_ventas(ventas):
+    ventas_limpias = []
+    vistos = set()
+
+    for v in ventas:
+        v = v.copy()  # ✅ no dañar el original
+
+        # 1. Normalizar producto
+        if v.get("producto"):
+            v["producto"] = v["producto"].strip().title()
+
+        # 2. Normalizar vendedor
+        if v.get("vendedor"):
+            v["vendedor"] = v["vendedor"].strip().title()
+
+        # 3. Normalizar talla
+        tallas_validas = ["XS","S","M","L","XL","XXL","XXXL"]
+        if v.get("talla") not in tallas_validas:
+            v["talla"] = "M"
+
+        # 4. Validar cantidad
+        if not isinstance(v.get("cantidad"), int) or v["cantidad"] <= 0:
+            v["cantidad"] = 1
+
+        # 5. Validar precio
+        if not isinstance(v.get("precioUnitario"), (int, float)) or v["precioUnitario"] is None:
+            continue
+
+        # 6. Normalizar fecha
+        if isinstance(v.get("fecha"), str):
+            try:
+                v["fecha"] = datetime.strptime(v["fecha"], "%d/%m/%Y")
+            except ValueError:
+                continue
+
+        # 👉 Convertir fecha a string (para CSV)
+        if isinstance(v.get("fecha"), datetime):
+            v["fecha"] = v["fecha"].strftime("%Y-%m-%d")
+
+        # 7. Recalcular total
+        v["total"] = v["cantidad"] * v["precioUnitario"]
+
+        # 8. Eliminar duplicados
+        clave = (v["producto"], v["vendedor"], v["fecha"], v["total"])
+        if clave in vistos:
+            continue
+
+        vistos.add(clave)
+        ventas_limpias.append(v)
+
+    return ventas_limpias

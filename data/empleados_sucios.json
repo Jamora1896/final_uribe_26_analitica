@@ -1,0 +1,58 @@
+[
+    {
+        "id":1,
+        "nombre":"JESSICA MORA",
+        "salario_base":2500000,
+        "documento":1032456789,
+        "fechaIngreso":1615766400000
+    },
+    {
+        "id":2,
+        "nombre":"David Mira ",
+        "salario_base":2500000,
+        "documento":1029384756,
+        "fechaIngreso":1657411200000
+    },
+    {
+        "id":3,
+        "nombre":"Johana Ferraro ",
+        "salario_base":2600000,
+        "documento":1045678912,
+        "fechaIngreso":1604534400000
+    },
+    {
+        "id":4,
+        "nombre":"Roger Mora ",
+        "salario_base":2500000,
+        "documento":1012345678,
+        "fechaIngreso":1674172800000
+    },
+    {
+        "id":5,
+        "nombre":"Laura Mora",
+        "salario_base":3200000,
+        "documento":1098765432,
+        "fechaIngreso":1559347200000
+    },
+    {
+        "id":6,
+        "nombre":"Juan Jose Rios",
+        "salario_base":0,
+        "documento":1076543219,
+        "fechaIngreso":1631404800000
+    },
+    {
+        "id":7,
+        "nombre":"Alexander Ramirez",
+        "salario_base":2800000,
+        "documento":1054321987,
+        "fechaIngreso":"18\/04\/2022"
+    },
+    {
+        "id":1,
+        "nombre":"JESSICA MORA",
+        "salario_base":2500000,
+        "documento":1032456789,
+        "fechaIngreso":1615766400000
+    }
+]
